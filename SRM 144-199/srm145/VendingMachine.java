@@ -28,10 +28,10 @@ public class VendingMachine {
         }
 
         for (int i = 0; i < len; i++) {
-            m[i] = Integer.parseInt(purchases[i].substring(0, purchases[i]
-                    .indexOf(",")));
-            n[i] = Integer.parseInt(purchases[i].substring(purchases[i]
-                    .indexOf(",") + 1, purchases[i].indexOf(":")));
+            m[i] = Integer.parseInt(purchases[i].substring(0,
+                    purchases[i].indexOf(",")));
+            n[i] = Integer.parseInt(purchases[i].substring(
+                    purchases[i].indexOf(",") + 1, purchases[i].indexOf(":")));
             t[i] = Integer.parseInt(purchases[i].substring(purchases[i]
                     .indexOf(":") + 1));
         }

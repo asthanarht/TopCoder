@@ -45,28 +45,28 @@ package srm517;
 //}
 
 public class CompositeSmash {
-   public String thePossible(int N, int target) {
-      if (possible(N, target))
-         return "Yes";
-      else
-         return "No";
-   }
+    public String thePossible(int N, int target) {
+        if (possible(N, target))
+            return "Yes";
+        else
+            return "No";
+    }
 
-   private boolean possible(int N, int target) {
-      if (N == target)
-         return true;
-      if (target > N)
-         return false;
-      if (N % target != 0)
-         return false;
-      for (int i = 2; i * i <= N; i++)
-         if (N % i == 0) {
-            int num = N / i;
-            if (possible(i, target) || possible(num, target))
-               ;
-            else
-               return false;
-         }
-      return true;
-   }
+    private boolean possible(int N, int target) {
+        if (N == target)
+            return true;
+        if (target > N)
+            return false;
+        if (N % target != 0)
+            return false;
+        for (int i = 2; i * i <= N; i++)
+            if (N % i == 0) {
+                int num = N / i;
+                if (possible(i, target) || possible(num, target))
+                    ;
+                else
+                    return false;
+            }
+        return true;
+    }
 }
