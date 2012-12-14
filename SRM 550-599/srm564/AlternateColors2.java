@@ -9,8 +9,6 @@ public class AlternateColors2 {
             for (int pre2 = 0; pre2 < 3; pre2++)
                 for (int pre1 = 0; pre1 < 3; pre1++)
                     for (int cur = 0; cur < 3; cur++) {
-                        if (dp[i][pre2][pre1][cur] == 0)
-                            continue;
                         if (i == k && cur != 0)
                             continue;
                         if (pre1 == cur)
