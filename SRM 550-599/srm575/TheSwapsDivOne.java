@@ -14,6 +14,7 @@ public class TheSwapsDivOne {
         double caseNum = c2(n);
         double stayCase = c2(n - 1);
 
+        // possibility that a num stays in place or not after k swaps
         double pSame = 1;
         double pOther = 0;
         for (int turn = 0; turn < k; turn++) {
@@ -22,6 +23,7 @@ public class TheSwapsDivOne {
         }
         double pAnother = pOther / (n - 1);
 
+        // expected number at each position in the final sequence
         double[] numExpect = new double[n];
         for (int i = 0; i < n; i++)
             for (int j = 0; j < n; j++)
@@ -30,6 +32,7 @@ public class TheSwapsDivOne {
                 else
                     numExpect[j] += num[i] * pAnother;
 
+        // how many subsequences each position appears in
         int[] outCase = new int[n];
         for (int i = 0; i < n; i++)
             outCase[i] = (i + 1) * (n - i);
@@ -43,6 +46,7 @@ public class TheSwapsDivOne {
         return expect;
     }
 
+    // select 2 from n
     private double c2(int n) {
         return n * (n - 1) / 2;
     }
