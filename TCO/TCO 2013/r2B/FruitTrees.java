@@ -3,7 +3,6 @@ package r2B;
 public class FruitTrees {
     public int maxDist(int apple, int kiwi, int grape) {
         int[] len = { apple, kiwi, grape };
-        // gcd is the minimum gap between two types of trees
         int[] gcd = { gcd(len[0], len[1]), gcd(len[0], len[2]),
                 gcd(len[1], len[2]) };
         if (gcd[0] == gcd[1] && gcd[1] == gcd[2])
