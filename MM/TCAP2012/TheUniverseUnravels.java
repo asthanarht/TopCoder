@@ -28,6 +28,8 @@ public class TheUniverseUnravels {
 		int[] maxDist = new int[nMaxDist];
 		for (int i = 0; i < nMaxDist; i++)
 			maxDist[i] = Integer.parseInt(in.nextLine());
+		
+		in.close();
 
 		String[] res = predictCoordinates(coords, ranks, minDist, maxDist);
 		System.out.println(res.length);
