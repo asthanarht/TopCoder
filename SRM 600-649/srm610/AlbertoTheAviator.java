@@ -2,6 +2,13 @@ package srm610;
 
 import java.util.Arrays;
 
+// Assume F-f1+r1-f2+r2 is valid;
+// Assume F-f2+r2-f1+r2 is not valid;
+// ==> F-f1+r1-f2>=0 && F-f2+r2-f1<0
+// ==> F+r1>=f1+f2>F+r2
+// ==> r1>r2
+// ==> order in descending order of r
+
 public class AlbertoTheAviator {
 	public int MaximumFlights(int F, int[] duration, int[] refuel) {
 		int n = duration.length;
