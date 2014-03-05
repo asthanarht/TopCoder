@@ -10,12 +10,12 @@ public class TheMatrix {
 		for (int row = 0; row < m; row++) {
 			for (int col = 0; col < n; col++) {
 				if (row > 0
-						&& board[row].charAt(col) != board[row - 1].charAt(col))
+				        && board[row].charAt(col) != board[row - 1].charAt(col))
 					cntc[row][col] = cntc[row - 1][col] + 1;
 				else
 					cntc[row][col] = 1;
 				if (col > 0
-						&& board[row].charAt(col) != board[row].charAt(col - 1))
+				        && board[row].charAt(col) != board[row].charAt(col - 1))
 					cntr[row][col] = cntr[row][col - 1] + 1;
 				else
 					cntr[row][col] = 1;

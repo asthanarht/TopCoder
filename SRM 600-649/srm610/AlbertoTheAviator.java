@@ -30,7 +30,7 @@ public class AlbertoTheAviator {
 				dp[i + 1][done] = Math.max(dp[i + 1][done], dp[i][done]);
 				if (dp[i][done] >= mission[i + 1].duration) {
 					dp[i + 1][done + 1] = Math.max(dp[i + 1][done + 1],
-							dp[i][done] - mission[i + 1].lose);
+					        dp[i][done] - mission[i + 1].lose);
 				}
 			}
 
