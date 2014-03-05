@@ -2,6 +2,8 @@ package srm610;
 
 import java.util.ArrayList;
 
+// two coordinates are independent, can be solved independently 
+//
 // let fun[i][x] be the profit lose accumulated up to e[i] at x,
 // fun[i] is a piecewise linear function of U/V shape (i.e., 3 parts):
 //    left part: monotonically decreasing
