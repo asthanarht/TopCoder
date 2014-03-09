@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
+// minimum spanning tree depends only on the order of edge weight
+// let w1 and w2 be the weight of two edges
+// the order of the two edges changes when (w1-ave)^2=(w2-ave)^2
+// => ave=(w1+w2)/2
 public class Egalitarianism2 {
 	private ArrayList<Edge> edges = new ArrayList<Edge>();
 	private UnionFind mstree;
@@ -20,12 +24,18 @@ public class Egalitarianism2 {
 				edges.add(new Edge(i, j, d));
 			}
 		double res = Double.POSITIVE_INFINITY;
+		ArrayList<Double> average = new ArrayList<Double>();
 		for (int i = 0; i + 1 < dist.size(); i++)
-			for (int j = i + 1; j < dist.size(); j++) {
-				double ave = (dist.get(i) + dist.get(j)) / 2;
-				mstree = new UnionFind(n);
-				res = Math.min(res, cal(ave));
-			}
+			for (int j = i + 1; j < dist.size(); j++)
+				average.add(0.5 * (dist.get(i) + dist.get(j)));
+		Collections.sort(average);
+		average.add(0, average.get(0) - 1);
+		average.add(average.size(), average.get(average.size() - 1) + 1);
+		for (int i = 0; i + 1 < average.size(); i++) {
+			double ave = 0.5 * (average.get(i) + average.get(i + 1));
+			mstree = new UnionFind(n);
+			res = Math.min(res, cal(ave));
+		}
 		return res;
 	}
 
