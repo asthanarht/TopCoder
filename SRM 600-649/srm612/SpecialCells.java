@@ -23,7 +23,7 @@ public class SpecialCells {
 	}
 
 	private int minCostMaxFlow(int n, int s, int t, int[][] capacity,
-			int[][] cost) {
+	        int[][] cost) {
 		int[] price = new int[n];
 		int res = 0;
 		while (true) {
@@ -36,7 +36,7 @@ public class SpecialCells {
 				int besti = -1;
 				for (int i = 0; i < n; i++)
 					if (!visited[i] && dist[i] < Integer.MAX_VALUE
-							&& (besti == -1 || dist[i] < dist[besti]))
+					        && (besti == -1 || dist[i] < dist[besti]))
 						besti = i;
 				if (besti == -1)
 					break;
