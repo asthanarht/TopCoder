@@ -1,4 +1,5 @@
 package srm618;
+
 public class LongWordsDiv2 {
 
 	public String find(String word) {

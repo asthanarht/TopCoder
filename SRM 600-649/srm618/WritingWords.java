@@ -1,4 +1,5 @@
 package srm618;
+
 public class WritingWords {
 
 	public int write(String word) {
