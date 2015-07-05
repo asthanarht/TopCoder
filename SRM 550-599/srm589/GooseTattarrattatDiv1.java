@@ -1,5 +1,3 @@
-package srm589;
-
 public class GooseTattarrattatDiv1 {
     public int getmin(String S) {
         int[] cnt = new int[26];

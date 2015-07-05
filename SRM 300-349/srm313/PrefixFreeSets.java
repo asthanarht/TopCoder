@@ -1,5 +1,3 @@
-package srm313;
-
 import java.util.HashSet;
 
 public class PrefixFreeSets {

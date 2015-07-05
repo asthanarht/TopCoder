@@ -1,5 +1,3 @@
-package srm391;
-
 import java.util.HashMap;
 
 public class IsomorphicWords {

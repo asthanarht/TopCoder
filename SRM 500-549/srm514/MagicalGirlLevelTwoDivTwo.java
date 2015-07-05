@@ -1,5 +1,3 @@
-package srm514;
-
 public class MagicalGirlLevelTwoDivTwo {
     public String isReachable(int[] jumpTypes, int x, int y) {
         x = Math.abs(x);

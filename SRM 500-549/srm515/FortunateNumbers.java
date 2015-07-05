@@ -1,5 +1,3 @@
-package srm515;
-
 import java.util.HashSet;
 
 public class FortunateNumbers {

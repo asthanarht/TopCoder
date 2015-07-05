@@ -1,4 +1,3 @@
-package srm654;
 public class SuccessiveSubtraction2 {
 
 	public int[] calc(int[] a, int[] p, int[] v) {

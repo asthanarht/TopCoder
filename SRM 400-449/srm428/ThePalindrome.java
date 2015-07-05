@@ -1,5 +1,3 @@
-package srm428;
-
 public class ThePalindrome {
     public int find(String s) {
         int result = s.length() * 2 - 1;

@@ -1,5 +1,3 @@
-package srm335;
-
 public class Multifactorial {
     public String calcMultiFact(int n, int k) {
         long res = 1, N = n, K = k;

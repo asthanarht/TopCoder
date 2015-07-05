@@ -1,5 +1,3 @@
-package srm454;
-
 public class DoubleXor {
     public int calculate(int N) {
         int result = N;

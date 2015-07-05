@@ -1,5 +1,3 @@
-package srm370;
-
 import java.math.BigInteger;
 
 public class DrawingMarbles {

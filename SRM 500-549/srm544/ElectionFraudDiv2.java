@@ -1,5 +1,3 @@
-package srm544;
-
 public class ElectionFraudDiv2 {
     public String IsFraudulent(int[] percentages) {
         int n = percentages.length;

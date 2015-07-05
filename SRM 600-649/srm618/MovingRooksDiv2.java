@@ -1,5 +1,3 @@
-package srm618;
-
 public class MovingRooksDiv2 {
 	int n;
 	boolean[] check = new boolean[100000000];

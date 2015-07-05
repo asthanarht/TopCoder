@@ -1,5 +1,3 @@
-package srm325;
-
 import java.util.Arrays;
 
 public class ModularInequality {

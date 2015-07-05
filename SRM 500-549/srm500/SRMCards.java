@@ -1,5 +1,3 @@
-package srm500;
-
 import java.util.Arrays;
 
 public class SRMCards {

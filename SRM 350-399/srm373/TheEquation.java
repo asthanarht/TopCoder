@@ -1,5 +1,3 @@
-package srm373;
-
 public class TheEquation {
     public int leastSum(int X, int Y, int P) {
         int min = P * 2;

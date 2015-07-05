@@ -1,5 +1,3 @@
-package srm582;
-
 import java.util.Arrays;
 
 public class SpaceWarDiv1 {

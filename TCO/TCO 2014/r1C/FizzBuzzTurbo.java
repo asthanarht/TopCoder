@@ -1,5 +1,3 @@
-package r1C;
-
 public class FizzBuzzTurbo {
 
 	public long[] counts(long A, long B) {

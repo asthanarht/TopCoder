@@ -1,5 +1,3 @@
-package srm330;
-
 import java.util.HashMap;
 
 public class PrefixFreeSubsets {

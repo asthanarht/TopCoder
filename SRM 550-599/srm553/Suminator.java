@@ -1,5 +1,3 @@
-package srm553;
-
 import java.util.Stack;
 
 public class Suminator {

@@ -1,5 +1,3 @@
-package srm396;
-
 public class VerifyCreditCard {
     public String checkDigits(String cardNumber) {
         int num[] = new int[cardNumber.length()];

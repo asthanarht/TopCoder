@@ -1,5 +1,3 @@
-package srm382;
-
 public class CollectingRiders {
     private int m;
     private int n;

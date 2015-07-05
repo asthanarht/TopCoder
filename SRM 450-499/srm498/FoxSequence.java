@@ -1,5 +1,3 @@
-package srm498;
-
 public class FoxSequence {
     public String isValid(int[] seq) {
         if (seq.length < 5)

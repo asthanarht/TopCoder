@@ -1,5 +1,3 @@
-package srm617;
-
 import java.util.HashSet;
 
 public class MyVeryLongCake {

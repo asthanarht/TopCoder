@@ -1,5 +1,3 @@
-package srm597;
-
 public class ConvexPolygonGame {
 	public String winner(int[] X, int[] Y) {
 		int n = X.length;

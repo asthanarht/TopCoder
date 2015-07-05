@@ -1,5 +1,3 @@
-package srm314;
-
 import java.util.ArrayList;
 
 public class MooingCows {

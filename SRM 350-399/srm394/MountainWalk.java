@@ -1,5 +1,3 @@
-package srm394;
-
 public class MountainWalk {
     public int cellsVisited(String[] areaMap, int heightDifference) {
         boolean[][] visited = new boolean[areaMap.length][areaMap[0].length()];

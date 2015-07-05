@@ -1,5 +1,3 @@
-package srm618;
-
 import java.util.Arrays;
 import java.util.HashSet;
 

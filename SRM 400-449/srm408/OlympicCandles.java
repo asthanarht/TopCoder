@@ -1,5 +1,3 @@
-package srm408;
-
 import java.util.Arrays;
 
 public class OlympicCandles {

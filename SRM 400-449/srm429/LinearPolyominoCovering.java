@@ -1,5 +1,3 @@
-package srm429;
-
 public class LinearPolyominoCovering {
     public String findCovering(String region) {
         for (int i = 0; i < region.length(); i++)

@@ -1,5 +1,3 @@
-package srm525;
-
 public class DropCoins {
     public int getMinimum(String[] board, int K) {
         int min = Integer.MAX_VALUE;

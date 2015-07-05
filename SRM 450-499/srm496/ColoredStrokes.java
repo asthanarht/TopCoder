@@ -1,5 +1,3 @@
-package srm496;
-
 public class ColoredStrokes {
     public int getLeast(String[] picture) {
         int result = 0;

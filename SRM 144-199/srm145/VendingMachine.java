@@ -1,5 +1,3 @@
-package srm145;
-
 public class VendingMachine {
 
     public int motorUse(String[] prices, String[] purchases) {

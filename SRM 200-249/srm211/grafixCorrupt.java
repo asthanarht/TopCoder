@@ -1,5 +1,3 @@
-package srm211;
-
 public class grafixCorrupt {
     public int selectWord(String[] dictionary, String candidate) {
         int n = dictionary.length, m = candidate.length();

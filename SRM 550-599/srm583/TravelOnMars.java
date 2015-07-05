@@ -1,5 +1,3 @@
-package srm583;
-
 import java.util.Arrays;
 
 public class TravelOnMars {

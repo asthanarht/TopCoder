@@ -1,5 +1,3 @@
-package srm494;
-
 public class Painting {
     public int largestBrush(String[] picture) {
         int R = picture.length, C = picture[0].length();

@@ -1,5 +1,3 @@
-package srm475;
-
 public class RabbitVoting {
     public String getWinner(String[] names, String[] votes) {
         int[] count = new int[names.length];

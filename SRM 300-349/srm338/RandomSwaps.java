@@ -1,5 +1,3 @@
-package srm338;
-
 public class RandomSwaps {
     public double getProbability(int arrayLength, int swapCount, int a, int b) {
         int n = arrayLength, m = swapCount, t = (n * (n - 1)) >> 1;

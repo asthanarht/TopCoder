@@ -1,5 +1,3 @@
-package srm351;
-
 public class CoinsExchange {
     public int countExchanges(int G1, int S1, int B1, int G2, int S2, int B2) {
         int count = 0;

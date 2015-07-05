@@ -1,5 +1,3 @@
-package srm356;
-
 import java.util.HashSet;
 
 public class AverageProblem {

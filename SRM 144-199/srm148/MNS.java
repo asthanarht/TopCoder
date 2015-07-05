@@ -1,5 +1,3 @@
-package srm148;
-
 import java.util.HashSet;
 
 public class MNS {

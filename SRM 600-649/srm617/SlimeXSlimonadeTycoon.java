@@ -1,5 +1,3 @@
-package srm617;
-
 public class SlimeXSlimonadeTycoon {
 
 	public int sell(int[] morning, int[] customers, int stale_limit) {

@@ -1,5 +1,3 @@
-package srm487;
-
 public class BunnyComputer {
     public int getMaximum(int[] preference, int k) {
         int max = 0, n = preference.length;

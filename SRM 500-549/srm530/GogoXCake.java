@@ -1,5 +1,3 @@
-package srm530;
-
 public class GogoXCake {
     char[][] ca;
     boolean[][] cu;

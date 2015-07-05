@@ -1,5 +1,3 @@
-package srm576;
-
 public class TheExperiment {
     public int countPlacements(String[] intensity, int M, int L, int A, int B) {
         String intensitys = "";

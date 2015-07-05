@@ -1,5 +1,3 @@
-package srm467;
-
 public class LateProfessor {
     public double getProbability(int waitTime, int walkTime, int lateTime,
             int bestArrival, int worstArrival) {

@@ -1,5 +1,3 @@
-package srm399;
-
 public class CircularLine {
     public int longestTravel(int[] t) {
         int total = 0;

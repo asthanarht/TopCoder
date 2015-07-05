@@ -1,5 +1,3 @@
-package srm397;
-
 public class CollectingMarbles {
     public int mostMarbles(int[] marblesWeights, int bagCapacity,
             int numberOfBags) {

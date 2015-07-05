@@ -1,5 +1,3 @@
-package srm546;
-
 public class KleofasTail {
     private long A;
     private long B;

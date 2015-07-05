@@ -1,5 +1,3 @@
-package srm334;
-
 public class EncodedSum {
     public long maximumSum(String[] numbers) {
         long[] weight = new long[10];

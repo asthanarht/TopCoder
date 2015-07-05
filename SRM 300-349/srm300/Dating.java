@@ -1,5 +1,3 @@
-package srm300;
-
 public class Dating {
     public String dates(String circle, int k) {
         String result = "";

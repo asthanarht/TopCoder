@@ -1,5 +1,3 @@
-package srm485;
-
 public class AfraidOfEven {
     public int[] restoreProgression(int[] seq) {
         for (long seq0 = seq[0]; seq0 < Integer.MAX_VALUE; seq0 *= 2)

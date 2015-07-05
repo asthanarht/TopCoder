@@ -1,5 +1,3 @@
-package srm303;
-
 public class SpiralNumbers {
     public String getPosition(int N) {
         if (N == 1)

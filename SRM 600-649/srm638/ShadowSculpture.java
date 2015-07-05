@@ -1,5 +1,3 @@
-package srm638;
-
 public class ShadowSculpture {
 
 	public String possible(String[] XY, String[] YZ, String[] ZX) {

@@ -1,5 +1,3 @@
-package srm452;
-
 public class EggCartons {
     public int minCartons(int n) {
         int c8 = n / 8;

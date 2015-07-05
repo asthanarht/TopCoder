@@ -1,5 +1,3 @@
-package srm571;
-
 public class FoxAndMp3 {
     private static int[] name = new int[10];
     private static int digit = 0;

@@ -1,5 +1,3 @@
-package srm200;
-
 public class WindowManager {
     public String[] screen(int height, int width, String[] windows) {
         char[][] screen = new char[height][width];

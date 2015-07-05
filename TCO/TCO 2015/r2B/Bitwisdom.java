@@ -1,5 +1,3 @@
-package r2B;
-
 public class Bitwisdom {
 
 	public double expectedActions(int[] p) {

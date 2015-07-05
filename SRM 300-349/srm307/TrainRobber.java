@@ -1,5 +1,3 @@
-package srm307;
-
 import java.util.PriorityQueue;
 
 public class TrainRobber {

@@ -1,5 +1,3 @@
-package srm547;
-
 public class RectangularSum {
     public long minimalArea(int height, int width, long S) {
         long minArea = Long.MAX_VALUE, area, r, c, minus, a1, a2;

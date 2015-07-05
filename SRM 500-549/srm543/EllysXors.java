@@ -1,5 +1,3 @@
-package srm543;
-
 public class EllysXors {
     public long getXor(long L, long R) {
         if (L == R)

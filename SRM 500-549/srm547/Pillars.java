@@ -1,5 +1,3 @@
-package srm547;
-
 public class Pillars {
     public double getExpectedLength(int w, int x, int y) {
         long count = 0, ww = w * w;

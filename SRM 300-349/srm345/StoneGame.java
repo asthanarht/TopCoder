@@ -1,5 +1,3 @@
-package srm345;
-
 import java.util.Arrays;
 
 public class StoneGame {

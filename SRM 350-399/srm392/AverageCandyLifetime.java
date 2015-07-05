@@ -1,5 +1,3 @@
-package srm392;
-
 public class AverageCandyLifetime {
     public double getAverage(int[] eatenCandies) {
         int[] days = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };

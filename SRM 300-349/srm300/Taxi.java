@@ -1,5 +1,3 @@
-package srm300;
-
 public class Taxi {
     public double maxDis(int maxX, int maxY, int taxiDis) {
         if (maxX + maxY < taxiDis)

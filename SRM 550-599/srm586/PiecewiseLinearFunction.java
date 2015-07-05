@@ -1,5 +1,3 @@
-package srm586;
-
 public class PiecewiseLinearFunction {
     public int maximumSolutions(int[] Y) {
         for (int j = 1; j < Y.length; j++)

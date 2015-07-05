@@ -1,5 +1,3 @@
-package srm606;
-
 public class EllysNumberGuessing {
 	public int getNumber(int[] guesses, int[] answers) {
 		int n = guesses.length;

@@ -1,5 +1,3 @@
-package srm481;
-
 public class ChickenOracle {
     public String theTruth(int n, int eggCount, int lieCount, int liarCount) {
         int chickCount = n - eggCount;

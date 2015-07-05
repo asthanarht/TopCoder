@@ -1,5 +1,3 @@
-package srm371;
-
 public class SpiralRoute {
     public int[] thronePosition(int width, int length) {
         int[] loc = new int[2]; // {x, y}

@@ -1,5 +1,3 @@
-package srm405;
-
 public class FallingFactorialPower {
 
     public double compute(int n, int k) {

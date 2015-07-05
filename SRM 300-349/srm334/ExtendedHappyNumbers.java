@@ -1,5 +1,3 @@
-package srm334;
-
 import java.util.ArrayList;
 
 public class ExtendedHappyNumbers {

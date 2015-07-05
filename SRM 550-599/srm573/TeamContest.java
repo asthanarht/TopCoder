@@ -1,5 +1,3 @@
-package srm573;
-
 import java.util.Arrays;
 
 public class TeamContest {

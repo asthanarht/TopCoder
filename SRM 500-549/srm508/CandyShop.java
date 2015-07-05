@@ -1,5 +1,3 @@
-package srm508;
-
 public class CandyShop {
 
     public int countProbablePlaces(int[] X, int[] Y, int[] R) {

@@ -1,5 +1,3 @@
-package srm536;
-
 import java.util.Arrays;
 
 public class MergersDivOne {

@@ -1,5 +1,3 @@
-package srm562;
-
 public class PastingPaintingDivOne {
     public long[] countColors(String[] clipboard, int T) {
         long[] count = new long[4];

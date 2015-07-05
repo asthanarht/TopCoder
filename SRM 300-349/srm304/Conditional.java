@@ -1,5 +1,3 @@
-package srm304;
-
 public class Conditional {
     public double probability(int nDice, int maxSide, int v, int theSum) {
         double[][][] dp = new double[nDice][theSum + 1][2];

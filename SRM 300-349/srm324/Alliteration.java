@@ -1,5 +1,3 @@
-package srm324;
-
 public class Alliteration {
     public int count(String[] words) {
         int count = 0;

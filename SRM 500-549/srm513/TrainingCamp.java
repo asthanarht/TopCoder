@@ -1,5 +1,3 @@
-package srm513;
-
 public class TrainingCamp {
     public String[] determineSolvers(String[] attendance, String[] problemTopics) {
         int N = attendance.length;

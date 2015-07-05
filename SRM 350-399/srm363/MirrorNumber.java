@@ -1,5 +1,3 @@
-package srm363;
-
 public class MirrorNumber {
     private int count = 0;
     private long a, b;

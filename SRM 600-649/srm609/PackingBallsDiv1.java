@@ -1,5 +1,3 @@
-package srm609;
-
 import java.util.Arrays;
 
 public class PackingBallsDiv1 {

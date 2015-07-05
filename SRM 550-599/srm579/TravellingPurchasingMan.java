@@ -1,5 +1,3 @@
-package srm579;
-
 import java.util.Arrays;
 
 public class TravellingPurchasingMan {

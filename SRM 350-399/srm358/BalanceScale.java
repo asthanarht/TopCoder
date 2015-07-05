@@ -1,5 +1,3 @@
-package srm358;
-
 import java.util.Arrays;
 
 public class BalanceScale {

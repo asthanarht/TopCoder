@@ -1,5 +1,3 @@
-package srm365;
-
 import java.util.HashSet;
 
 public class PointsOnCircle {

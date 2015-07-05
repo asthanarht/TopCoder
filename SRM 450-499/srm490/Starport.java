@@ -1,5 +1,3 @@
-package srm490;
-
 public class Starport {
     public double getExpectedTime(int N, int M) {
         double gcd = gcd(M, N);

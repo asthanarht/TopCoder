@@ -1,5 +1,3 @@
-package srm501;
-
 public class FoxProgression {
 
     public int theCount(int[] seq) {

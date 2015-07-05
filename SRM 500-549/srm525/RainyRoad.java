@@ -1,5 +1,3 @@
-package srm525;
-
 public class RainyRoad {
     public String isReachable(String[] road) {
         for (int i = 0; i < road[0].length(); i++)

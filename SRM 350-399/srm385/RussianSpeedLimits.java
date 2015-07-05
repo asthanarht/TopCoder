@@ -1,5 +1,3 @@
-package srm385;
-
 public class RussianSpeedLimits {
     public int getCurrentLimit(String[] signs) {
         if (!signs[signs.length - 1].equals("city")

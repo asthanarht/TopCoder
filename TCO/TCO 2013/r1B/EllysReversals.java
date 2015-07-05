@@ -1,5 +1,3 @@
-package r1B;
-
 import java.util.Arrays;
 
 public class EllysReversals {

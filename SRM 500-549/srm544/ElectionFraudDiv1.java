@@ -1,5 +1,3 @@
-package srm544;
-
 public class ElectionFraudDiv1 {
     public int MinimumVoters(int[] percentages) {
         long start = System.currentTimeMillis();

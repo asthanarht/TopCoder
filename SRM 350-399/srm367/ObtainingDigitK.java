@@ -1,5 +1,3 @@
-package srm367;
-
 import java.math.BigInteger;
 
 public class ObtainingDigitK {

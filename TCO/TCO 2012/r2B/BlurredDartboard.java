@@ -1,5 +1,3 @@
-package r2B;
-
 public class BlurredDartboard {
     public int minThrows(int[] points, int P) {
         int sum = points.length, max = 0, count = 0;

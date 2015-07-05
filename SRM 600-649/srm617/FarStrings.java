@@ -1,5 +1,3 @@
-package srm617;
-
 public class FarStrings {
 
 	public String[] find(String t) {

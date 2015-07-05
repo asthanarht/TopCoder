@@ -1,5 +1,3 @@
-package srm517;
-
 public class MonochromaticBoard {
     public int theMin(String[] board) {
         int r = board.length;

@@ -1,5 +1,3 @@
-package srm601;
-
 public class WinterAndPresents {
 	public long getNumber(int[] apple, int[] orange) {
 		int n = apple.length;

@@ -1,5 +1,3 @@
-package srm506;
-
 public class SlimeXSlimeRancher2 {
 
     public int train(int[] attributes) {

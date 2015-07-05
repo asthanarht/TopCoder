@@ -1,5 +1,3 @@
-package srm310;
-
 public class InputBoxChecker {
     public String[] checkPrefix(int smallest, int largest, int[] numbers) {
         String[] result = new String[numbers.length];

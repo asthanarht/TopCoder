@@ -1,5 +1,3 @@
-package srm548;
-
 public class KingdomAndTrees {
     public static int[] H;
 

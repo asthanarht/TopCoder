@@ -1,5 +1,3 @@
-package srm361;
-
 public class WhiteHats {
     boolean[] white; // true means must be white
     boolean[] black; // true means must be black

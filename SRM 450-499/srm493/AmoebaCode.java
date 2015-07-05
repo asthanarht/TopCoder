@@ -1,5 +1,3 @@
-package srm493;
-
 public class AmoebaCode {
     int n, k, mindis;
     int[] comb;

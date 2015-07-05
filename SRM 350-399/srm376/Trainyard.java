@@ -1,5 +1,3 @@
-package srm376;
-
 public class Trainyard {
     private int m;
     private int n;

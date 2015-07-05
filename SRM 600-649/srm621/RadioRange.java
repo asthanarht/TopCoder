@@ -1,5 +1,3 @@
-package srm621;
-
 import java.util.Arrays;
 
 public class RadioRange {

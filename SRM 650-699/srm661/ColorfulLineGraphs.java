@@ -1,5 +1,3 @@
-package srm661;
-
 public class ColorfulLineGraphs {
 
 	public int countWays(long N, long K, int M) {

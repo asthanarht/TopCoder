@@ -1,5 +1,3 @@
-package srm611;
-
 public class ElephantDrinkingEasy {
 	public int maxElephants(String[] map) {
 		int n = map.length, N = n + 2;

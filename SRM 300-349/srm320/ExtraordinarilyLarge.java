@@ -1,5 +1,3 @@
-package srm320;
-
 public class ExtraordinarilyLarge {
     public String compare(String x, String y) {
         if (x.startsWith("0!"))

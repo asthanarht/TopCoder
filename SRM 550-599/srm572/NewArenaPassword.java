@@ -1,5 +1,3 @@
-package srm572;
-
 public class NewArenaPassword {
     public int minChange(String oldPassword, int K) {
         int n = oldPassword.length();

@@ -1,5 +1,3 @@
-package srm152;
-
 import java.util.ArrayList;
 
 public class LeaguePicks {

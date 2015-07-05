@@ -1,5 +1,3 @@
-package r2C;
-
 import java.util.Arrays;
 
 public class GreedyTravelingSalesman {

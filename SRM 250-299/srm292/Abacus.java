@@ -1,5 +1,3 @@
-package srm292;
-
 public class Abacus {
     public String[] add(String[] original, int val) {
         String ori = "";

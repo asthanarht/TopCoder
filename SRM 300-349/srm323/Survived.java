@@ -1,5 +1,3 @@
-package srm323;
-
 public class Survived {
     public double minTime(int x, int y, int V, int U) {
         double a = U * U - V * V;

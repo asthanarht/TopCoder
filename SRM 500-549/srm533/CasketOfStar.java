@@ -1,5 +1,3 @@
-package srm533;
-
 public class CasketOfStar {
     public int maxEnergy(int[] weight) {
         int n = weight.length;

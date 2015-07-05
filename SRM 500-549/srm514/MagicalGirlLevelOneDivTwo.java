@@ -1,5 +1,3 @@
-package srm514;
-
 public class MagicalGirlLevelOneDivTwo {
     public double theMinDistance(int d, int x, int y) {
         double m = Math.abs(x) - d;

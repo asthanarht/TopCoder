@@ -1,5 +1,3 @@
-package srm575;
-
 public class TheNumberGameDivOne {
     public String find(long n) {
         long checker = 2;

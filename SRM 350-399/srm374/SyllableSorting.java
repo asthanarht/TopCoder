@@ -1,5 +1,3 @@
-package srm374;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 

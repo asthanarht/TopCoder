@@ -1,5 +1,3 @@
-package srm396;
-
 public class DNAString {
     public int minChanges(int maxPeriod, String[] dna) {
         String space = "AGCT";

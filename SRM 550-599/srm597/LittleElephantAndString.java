@@ -1,5 +1,3 @@
-package srm597;
-
 public class LittleElephantAndString {
 	public int getNumber(String A, String B) {
 		int n = A.length();

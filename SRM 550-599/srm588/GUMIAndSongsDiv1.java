@@ -1,5 +1,3 @@
-package srm588;
-
 import java.util.Arrays;
 
 public class GUMIAndSongsDiv1 {

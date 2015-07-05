@@ -1,5 +1,3 @@
-package srm306;
-
 import java.util.Arrays;
 import java.util.HashMap;
 

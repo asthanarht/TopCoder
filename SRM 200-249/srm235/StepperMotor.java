@@ -1,5 +1,3 @@
-package srm235;
-
 public class StepperMotor {
     public static int rotateToNearest(int n, int current, int[] target) {
         int min = n;

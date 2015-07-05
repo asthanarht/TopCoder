@@ -1,5 +1,3 @@
-package srm509;
-
 public class PalindromizationDiv2 {
 
     public int getMinimumCost(int X) {

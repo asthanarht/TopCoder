@@ -1,5 +1,3 @@
-package srm476;
-
 import java.util.Arrays;
 
 public class Badgers {

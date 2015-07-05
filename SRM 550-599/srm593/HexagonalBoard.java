@@ -1,5 +1,3 @@
-package srm593;
-
 public class HexagonalBoard {
 	public int[] xc = { -1, -1, 0, 1, 1, 0 };
 	public int[] yc = { 0, 1, 1, 0, -1, -1 };

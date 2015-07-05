@@ -1,5 +1,3 @@
-package srm354;
-
 public class DateFormat {
     public String fromEuropeanToUs(String[] dateList) {
         String dl = "";

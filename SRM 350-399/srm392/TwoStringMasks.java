@@ -1,5 +1,3 @@
-package srm392;
-
 public class TwoStringMasks {
     public String shortestCommon(String s1, String s2) {
         String combine = "";

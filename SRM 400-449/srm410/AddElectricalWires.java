@@ -1,5 +1,3 @@
-package srm410;
-
 public class AddElectricalWires {
     public int maxNewWires(String[] wires, int[] gridConnections) {
         int n = wires.length;

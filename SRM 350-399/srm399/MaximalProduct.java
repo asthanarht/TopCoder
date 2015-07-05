@@ -1,5 +1,3 @@
-package srm399;
-
 public class MaximalProduct {
     public long maximalProduct(int s, int k) {
         int small = s / k;

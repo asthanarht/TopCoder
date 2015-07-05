@@ -1,5 +1,3 @@
-package srm346;
-
 import java.util.Arrays;
 
 public class HeightRound {

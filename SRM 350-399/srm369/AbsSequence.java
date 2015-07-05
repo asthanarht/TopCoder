@@ -1,5 +1,3 @@
-package srm369;
-
 public class AbsSequence {
     public String[] getElements(String first, String second, String[] indices) {
         String[] res = new String[indices.length];

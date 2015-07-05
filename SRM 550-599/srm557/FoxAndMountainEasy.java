@@ -1,5 +1,3 @@
-package srm557;
-
 public class FoxAndMountainEasy {
     public String possible(int n, int h0, int hn, String history) {
         int loc = h0, min = 0;

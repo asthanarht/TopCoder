@@ -1,5 +1,3 @@
-package srm537;
-
 public class KingXNewCurrency {
     public int howMany(int A, int B, int X) {
         if ((int) gcd(A, B) % X == 0)

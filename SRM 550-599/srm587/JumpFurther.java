@@ -1,5 +1,3 @@
-package srm587;
-
 public class JumpFurther {
     public int furthest(int N, int badStep) {
         int sum = 0;

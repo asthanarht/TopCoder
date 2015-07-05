@@ -1,5 +1,3 @@
-package srm393;
-
 public class VariableSpeedLimit {
     public double journeyTime(int journeyLength, int[] speedLimit) {
         double count = 0;

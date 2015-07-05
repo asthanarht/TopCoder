@@ -1,5 +1,3 @@
-package srm590;
-
 public class FoxAndChess {
     public String ableToMove(String begin, String target) {
         boolean ok = true;

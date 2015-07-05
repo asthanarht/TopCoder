@@ -1,5 +1,3 @@
-package srm509;
-
 public class LuckyRemainder {
 
     public int getLuckyRemainder(String X) {

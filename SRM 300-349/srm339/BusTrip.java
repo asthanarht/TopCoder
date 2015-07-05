@@ -1,5 +1,3 @@
-package srm339;
-
 public class BusTrip {
     public static int returnTime(int N, String[] buses) {
         int n = buses.length;

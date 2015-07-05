@@ -1,5 +1,3 @@
-package srm591;
-
 public class TheTree {
     public int maximumDiameter(int[] cnt) {
         int m = cnt.length, n = cnt.length + 1;

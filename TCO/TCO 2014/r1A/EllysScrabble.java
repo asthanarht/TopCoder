@@ -1,5 +1,3 @@
-package r1A;
-
 public class EllysScrabble {
 
 	public String getMin(String letters, int maxDistance) {

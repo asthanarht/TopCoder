@@ -1,5 +1,3 @@
-package srm325;
-
 public class FenceRepairing {
     public double calculateCost(String[] boards) {
         String bs = boards[0];

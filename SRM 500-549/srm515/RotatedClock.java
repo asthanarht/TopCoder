@@ -1,5 +1,3 @@
-package srm515;
-
 public class RotatedClock {
     public String getEarliest(int hourHand, int minuteHand) {
         int h = (hourHand % 30) * 12;

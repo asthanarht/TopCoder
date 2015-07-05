@@ -1,5 +1,3 @@
-package srm317;
-
 public class CollectingPayment {
     public double maximumProfit(int[] earning, int[] moment, int fee, int rate) {
         int n = earning.length;

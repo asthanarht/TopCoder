@@ -1,5 +1,3 @@
-package srm598;
-
 import java.util.Arrays;
 
 public class BinPacking {

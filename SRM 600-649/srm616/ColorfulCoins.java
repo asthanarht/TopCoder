@@ -1,5 +1,3 @@
-package srm616;
-
 import java.util.Arrays;
 
 // query twice

@@ -1,5 +1,3 @@
-package srm325;
-
 public class RGBStreet {
     public int estimateCost(String[] houses) {
         int n = houses.length;

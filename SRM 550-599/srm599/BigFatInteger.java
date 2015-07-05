@@ -1,5 +1,3 @@
-package srm599;
-
 public class BigFatInteger {
 	public int minOperations(int A, int B) {
 		int res = 0, max = 0;

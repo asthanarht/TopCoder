@@ -1,5 +1,3 @@
-package srm390;
-
 import java.util.Arrays;
 
 public class PaintingBoards {

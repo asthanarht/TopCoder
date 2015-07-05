@@ -1,5 +1,3 @@
-package srm598;
-
 public class FoxAndFencing {
 	public String WhoCanWin(int mov1, int mov2, int rng1, int rng2, int d) {
 		if (d <= rng1 + mov1)

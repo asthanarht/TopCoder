@@ -1,4 +1,3 @@
-package TCAP2012;
 import java.util.*;
 import java.io.*;
 import java.security.*;

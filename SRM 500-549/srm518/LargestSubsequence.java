@@ -1,5 +1,3 @@
-package srm518;
-
 public class LargestSubsequence {
     public String getLargest(String s) {
         String result = "";

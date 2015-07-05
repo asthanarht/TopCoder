@@ -1,5 +1,3 @@
-package srm633;
-
 public class PeriodicJumping {
 
 	public int minimalTime(int x, int[] jumpLengths) {

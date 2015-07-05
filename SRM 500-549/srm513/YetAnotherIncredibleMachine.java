@@ -1,5 +1,3 @@
-package srm513;
-
 import java.util.Arrays;
 
 public class YetAnotherIncredibleMachine {

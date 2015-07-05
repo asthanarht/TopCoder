@@ -1,5 +1,3 @@
-package r1C;
-
 public class TheArray {
     public int find(int n, int d, int first, int last) {
         if (d == 0)

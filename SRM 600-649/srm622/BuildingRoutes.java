@@ -1,5 +1,3 @@
-package srm622;
-
 public class BuildingRoutes {
 
     public int build(String[] dist, int T) {

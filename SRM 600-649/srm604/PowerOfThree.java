@@ -1,5 +1,3 @@
-package srm604;
-
 public class PowerOfThree {
 	public String ableToGet(int x, int y) {
 		x = Math.abs(x);

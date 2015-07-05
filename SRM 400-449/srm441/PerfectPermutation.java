@@ -1,5 +1,3 @@
-package srm441;
-
 public class PerfectPermutation {
 
 	public int reorder(int[] P) {

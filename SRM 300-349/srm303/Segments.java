@@ -1,5 +1,3 @@
-package srm303;
-
 public class Segments {
     public String intersection(int[] s1, int[] s2) {
         int count = 0;

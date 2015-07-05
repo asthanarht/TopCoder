@@ -1,5 +1,3 @@
-package srm642;
-
 public class WaitingForBus {
 
 	public double whenWillBusArrive(int[] time, int[] prob, int s) {

@@ -1,5 +1,3 @@
-package srm415;
-
 public class ThreePhotos {
     public int removeCubes(String[] A, String[] B, String[] C) {
         int n = A.length;

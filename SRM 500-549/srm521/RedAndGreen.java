@@ -1,5 +1,3 @@
-package srm521;
-
 public class RedAndGreen {
     public int minPaints(String row) {
         int count = 0;

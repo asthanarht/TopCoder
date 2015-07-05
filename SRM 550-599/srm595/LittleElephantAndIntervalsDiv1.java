@@ -1,5 +1,3 @@
-package srm595;
-
 import java.util.Arrays;
 
 public class LittleElephantAndIntervalsDiv1 {

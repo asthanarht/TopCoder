@@ -1,5 +1,3 @@
-package srm305;
-
 import java.util.Arrays;
 
 public class UnfairDivision {

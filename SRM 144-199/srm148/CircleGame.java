@@ -1,5 +1,3 @@
-package srm148;
-
 public class CircleGame {
     private int total = 0;
     private int[] cards;

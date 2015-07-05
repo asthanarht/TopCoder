@@ -1,5 +1,3 @@
-package srm147;
-
 public class CCipher {
     public String decode(String cipherText, int shift) {
         String s = "";

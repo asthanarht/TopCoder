@@ -1,5 +1,3 @@
-package srm378;
-
 public class TrueStatements {
     public int numberTrue(int[] statements) {
         int[] count = new int[51];

@@ -1,5 +1,3 @@
-package srm200;
-
 public class NCMultiplication {
     public long findFactors(int[] digits) {
         long min = Long.MAX_VALUE;

@@ -1,5 +1,3 @@
-package srm612;
-
 public class LeftAndRightHandedDiv1 {
 	public long countSwaps(String Y, int A, int B, int C, int D, int N) {
 		int[] Li = new int[N + N]; // index of 'L'

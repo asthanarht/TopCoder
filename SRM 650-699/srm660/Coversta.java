@@ -1,5 +1,3 @@
-package srm660;
-
 public class Coversta {
 
 	public int place(String[] a, int[] x, int[] y) {

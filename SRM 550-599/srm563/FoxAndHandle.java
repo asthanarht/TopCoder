@@ -1,5 +1,3 @@
-package srm563;
-
 public class FoxAndHandle {
     public String lexSmallestName(String S) {
         int n = S.length();

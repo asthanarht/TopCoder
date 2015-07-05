@@ -1,5 +1,3 @@
-package srm144;
-
 public class Time {
 
     public String whatTime(int seconds) {

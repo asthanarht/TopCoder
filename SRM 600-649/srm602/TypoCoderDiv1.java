@@ -1,5 +1,3 @@
-package srm602;
-
 import java.util.Arrays;
 
 public class TypoCoderDiv1 {

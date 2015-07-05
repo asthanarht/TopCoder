@@ -1,5 +1,3 @@
-package srm611;
-
 public class LCMSetEasy {
 	public String include(int[] S, int x) {
 		long lcm = 1;

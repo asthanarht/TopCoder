@@ -1,5 +1,3 @@
-package srm611;
-
 public class InterestingNumber {
 	public String isInteresting(String x) {
 		for (int i = 0; i <= 9; i++)

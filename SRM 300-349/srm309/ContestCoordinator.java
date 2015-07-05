@@ -1,5 +1,3 @@
-package srm309;
-
 import java.util.Arrays;
 
 public class ContestCoordinator {

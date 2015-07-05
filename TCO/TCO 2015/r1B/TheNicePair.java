@@ -1,5 +1,3 @@
-package r1B;
-
 public class TheNicePair {
 
 	public int solve(int[] A) {

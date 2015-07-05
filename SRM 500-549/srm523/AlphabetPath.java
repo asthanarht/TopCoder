@@ -1,5 +1,3 @@
-package srm523;
-
 public class AlphabetPath {
     public String doesItExist(String[] letterMaze) {
         int[] x = { 1, 0, -1, 0 };

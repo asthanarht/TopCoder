@@ -1,5 +1,3 @@
-package srm407;
-
 public class SpiralWalking {
 
     public int totalPoints(String[] levelMap) {

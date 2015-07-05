@@ -1,5 +1,3 @@
-package srm149;
-
 public class FormatAmt {
     public String amount(int dollars, int cents) {
         String s = "$";

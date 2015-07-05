@@ -1,5 +1,3 @@
-package srm329;
-
 public class RailroadSeatNumeration {
     private int[] to = { 6, 1, 3, 4 };
 

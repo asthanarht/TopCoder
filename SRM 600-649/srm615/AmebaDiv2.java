@@ -1,5 +1,3 @@
-package srm615;
-
 public class AmebaDiv2 {
 
 	public int simulate(int[] X, int A) {

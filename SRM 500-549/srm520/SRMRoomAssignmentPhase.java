@@ -1,5 +1,3 @@
-package srm520;
-
 import java.util.Arrays;
 
 public class SRMRoomAssignmentPhase {

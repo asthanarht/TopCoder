@@ -1,5 +1,3 @@
-package srm661;
-
 public class MissingLCM {
 
 	public int getMin(int N) {

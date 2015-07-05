@@ -1,5 +1,3 @@
-package srm400;
-
 public class StrongPrimePower {
     public int[] baseAndExponent(String n) {
         Long N = Long.parseLong(n);

@@ -1,5 +1,3 @@
-package srm362;
-
 public class MaximizeSquares {
     public int squareCount(int N) {
         int count = 0;

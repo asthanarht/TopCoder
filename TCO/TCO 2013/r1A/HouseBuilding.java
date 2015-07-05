@@ -1,5 +1,3 @@
-package r1A;
-
 public class HouseBuilding {
     public int getMinimum(String[] area) {
         int result = Integer.MAX_VALUE;

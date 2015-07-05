@@ -1,5 +1,3 @@
-package srm383;
-
 import java.util.Arrays;
 
 public class Planks {

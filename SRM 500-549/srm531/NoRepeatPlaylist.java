@@ -1,5 +1,3 @@
-package srm531;
-
 public class NoRepeatPlaylist {
     private long[][] dp;
     private int mod = 1000000007;

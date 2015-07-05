@@ -1,5 +1,3 @@
-package srm149;
-
 public class BigBurger {
     public int maxWait(int[] arrival, int[] service) {
         int n = arrival.length;

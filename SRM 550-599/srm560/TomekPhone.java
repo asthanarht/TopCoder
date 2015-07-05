@@ -1,5 +1,3 @@
-package srm560;
-
 import java.util.Arrays;
 
 public class TomekPhone {

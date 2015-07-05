@@ -1,5 +1,3 @@
-package srm565;
-
 public class MonstersValley {
     public int minimumPrice(long[] dread, int[] price) {
         int n = dread.length, max = n + n;

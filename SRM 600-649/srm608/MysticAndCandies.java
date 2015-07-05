@@ -1,5 +1,3 @@
-package srm608;
-
 import java.util.Arrays;
 
 public class MysticAndCandies {

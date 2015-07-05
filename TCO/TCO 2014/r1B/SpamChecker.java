@@ -1,5 +1,3 @@
-package r1B;
-
 public class SpamChecker {
 
 	public String spamCheck(String judgeLog, int good, int bad) {

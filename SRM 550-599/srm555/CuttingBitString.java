@@ -1,5 +1,3 @@
-package srm555;
-
 import java.math.BigInteger;
 import java.util.HashSet;
 

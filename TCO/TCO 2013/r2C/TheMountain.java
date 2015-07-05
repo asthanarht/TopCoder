@@ -1,5 +1,3 @@
-package r2C;
-
 public class TheMountain {
     private static int N, M;
     private static long[][] given;

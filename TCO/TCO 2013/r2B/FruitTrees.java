@@ -1,5 +1,3 @@
-package r2B;
-
 public class FruitTrees {
     public int maxDist(int apple, int kiwi, int grape) {
         int[] len = { apple, kiwi, grape };

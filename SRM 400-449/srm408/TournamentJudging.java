@@ -1,5 +1,3 @@
-package srm408;
-
 public class TournamentJudging {
 
     public int getPoints(int[] rawScores, int[] conversionFactor) {

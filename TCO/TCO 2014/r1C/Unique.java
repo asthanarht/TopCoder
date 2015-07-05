@@ -1,5 +1,3 @@
-package r1C;
-
 public class Unique {
 
 	public String removeDuplicates(String S) {

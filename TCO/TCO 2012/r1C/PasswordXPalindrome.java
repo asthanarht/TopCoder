@@ -1,5 +1,3 @@
-package r1C;
-
 public class PasswordXPalindrome {
     private int n;
 

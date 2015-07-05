@@ -1,5 +1,3 @@
-package srm549;
-
 import java.util.Arrays;
 
 public class PointyWizardHats {

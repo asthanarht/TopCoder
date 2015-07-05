@@ -1,5 +1,3 @@
-package srm333;
-
 public class BirthNumbersValidator {
     private static int[] D = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 

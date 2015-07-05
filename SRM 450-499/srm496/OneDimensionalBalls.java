@@ -1,5 +1,3 @@
-package srm496;
-
 import java.util.Arrays;
 import java.util.HashSet;
 

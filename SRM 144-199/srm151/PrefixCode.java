@@ -1,5 +1,3 @@
-package srm151;
-
 public class PrefixCode {
     public String isOne(String[] words) {
         int n = words.length;

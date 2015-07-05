@@ -1,5 +1,3 @@
-package srm342;
-
 public class ReverseResources {
     private int[][] dp;
     private int mod = 1000000007;

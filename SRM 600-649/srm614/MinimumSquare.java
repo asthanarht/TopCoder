@@ -1,5 +1,3 @@
-package srm614;
-
 import java.util.Arrays;
 
 public class MinimumSquare {

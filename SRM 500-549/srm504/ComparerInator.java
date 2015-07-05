@@ -1,5 +1,3 @@
-package srm504;
-
 public class ComparerInator {
 
     public int makeProgram(int[] A, int[] B, int[] wanted) {

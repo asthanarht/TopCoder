@@ -1,5 +1,3 @@
-package srm540;
-
 public class ImportantSequence {
     private static int[] bs;
     private static char[] ops;

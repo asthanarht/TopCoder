@@ -1,5 +1,3 @@
-package srm607;
-
 public class PalindromicSubstringsDiv1 {
 	public double expectedPalindromes(String[] S1, String[] S2) {
 		String s = "";

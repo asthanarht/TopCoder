@@ -1,5 +1,3 @@
-package srm528;
-
 import java.util.Arrays;
 
 public class Cut {

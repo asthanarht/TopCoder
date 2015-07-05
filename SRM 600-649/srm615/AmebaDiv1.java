@@ -1,5 +1,3 @@
-package srm615;
-
 import java.util.HashSet;
 
 public class AmebaDiv1 {

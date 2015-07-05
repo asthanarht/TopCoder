@@ -1,5 +1,3 @@
-package srm505;
-
 public class SentenceCapitalizerInator {
 
     public String fixCaps(String paragraph) {

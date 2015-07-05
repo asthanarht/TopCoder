@@ -1,5 +1,3 @@
-package r2C;
-
 public class DancingFoxes {
     public int minimalDays(String[] friendship) {
         int n = friendship.length;

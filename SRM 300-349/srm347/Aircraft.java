@@ -1,5 +1,3 @@
-package srm347;
-
 public class Aircraft {
     public String nearMiss(int[] p1, int[] v1, int[] p2, int[] v2, int R) {
         long[] p = new long[3], v = new long[3];

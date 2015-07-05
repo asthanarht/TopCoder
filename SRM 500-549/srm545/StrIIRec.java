@@ -1,5 +1,3 @@
-package srm545;
-
 public class StrIIRec {
     public String recovstr(int n, int minInv, String minStr) {
         String res = "";

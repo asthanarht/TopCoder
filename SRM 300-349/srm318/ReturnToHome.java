@@ -1,5 +1,3 @@
-package srm318;
-
 public class ReturnToHome {
     public double goHome(int X, int Y, int D, int T) {
         double dis = Math.sqrt(X * X + Y * Y);

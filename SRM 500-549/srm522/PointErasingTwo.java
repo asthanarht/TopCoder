@@ -1,5 +1,3 @@
-package srm522;
-
 public class PointErasingTwo {
     public int getMaximum(int[] y) {
         int max = 0;

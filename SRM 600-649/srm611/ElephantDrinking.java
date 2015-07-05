@@ -1,5 +1,3 @@
-package srm611;
-
 public class ElephantDrinking {
 	public int maxSum(String[] field) {
 		int n = field.length, N = n + 2;

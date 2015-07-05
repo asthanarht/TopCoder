@@ -1,5 +1,3 @@
-package srm390;
-
 public class ConcatenateNumber {
     public int getSmallest(int number, int k) {
         int length = ("" + number).length();

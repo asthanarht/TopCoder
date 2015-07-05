@@ -1,5 +1,3 @@
-package srm373;
-
 public class StringFragmentation {
     public int largestFontSize(String text, int width, int height) {
         int max = -1;

@@ -1,5 +1,3 @@
-package srm584;
-
 public class Egalitarianism {
     public int maxDifference(String[] isFriend, int d) {
         int n = isFriend.length;

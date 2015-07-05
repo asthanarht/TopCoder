@@ -1,5 +1,3 @@
-package srm523;
-
 public class CountingSeries {
     public long countThem(long a, long b, long c, long d, long upperBound) {
         long count = 0;

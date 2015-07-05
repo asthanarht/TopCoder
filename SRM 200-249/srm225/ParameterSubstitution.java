@@ -1,5 +1,3 @@
-package srm225;
-
 public class ParameterSubstitution {
     public String processParams(String code, String[] params) {
         String result = "";

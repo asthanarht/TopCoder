@@ -1,5 +1,3 @@
-package srm305;
-
 public class MultiRead {
     public int minCycles(String trace, int procs) {
         int count = 0;

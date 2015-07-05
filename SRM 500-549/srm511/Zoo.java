@@ -1,5 +1,3 @@
-package srm511;
-
 import java.util.Arrays;
 
 public class Zoo {

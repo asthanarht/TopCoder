@@ -1,5 +1,3 @@
-package srm610;
-
 import java.util.Arrays;
 
 // Assume F-f1+r1-f2+r2 is valid;

@@ -1,5 +1,3 @@
-package srm327;
-
 public class NiceOrUgly {
     private String text;
 

@@ -1,5 +1,3 @@
-package srm538;
-
 public class TurtleSpy {
     public double maxDistance(String[] commands) {
         int n = commands.length;

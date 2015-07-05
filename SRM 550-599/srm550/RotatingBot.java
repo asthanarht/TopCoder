@@ -1,5 +1,3 @@
-package srm550;
-
 public class RotatingBot {
     public int minArea(int[] moves) {
         int n = moves.length;

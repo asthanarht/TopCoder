@@ -1,5 +1,3 @@
-package srm377;
-
 public class SquaresInsideLattice {
     public long howMany(int width, int height) {
         long res = 0;

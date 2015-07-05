@@ -1,5 +1,3 @@
-package srm612;
-
 public class LeftAndRightHandedDiv2 {
 	public int count(String S) {
 		int cnt = 0;

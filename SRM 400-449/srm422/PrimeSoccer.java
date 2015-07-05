@@ -1,5 +1,3 @@
-package srm422;
-
 public class PrimeSoccer {
     public double getProbability(int skillOfTeamA, int skillOfTeamB) {
         double[] p = { skillOfTeamA / 100d, skillOfTeamB / 100d };

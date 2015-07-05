@@ -1,5 +1,3 @@
-package srm365;
-
 public class TournamentsAmbiguityNumber {
     public int scrutinizeTable(String[] table) {
         int n = table.length;

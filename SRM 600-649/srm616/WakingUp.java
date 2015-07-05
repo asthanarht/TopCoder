@@ -1,5 +1,3 @@
-package srm616;
-
 public class WakingUp {
 
 	public int maxSleepiness(int[] period, int[] start, int[] volume, int D) {

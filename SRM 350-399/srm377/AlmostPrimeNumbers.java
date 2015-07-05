@@ -1,5 +1,3 @@
-package srm377;
-
 import java.util.Arrays;
 
 public class AlmostPrimeNumbers {

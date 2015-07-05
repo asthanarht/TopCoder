@@ -1,5 +1,3 @@
-package r1C;
-
 public class PasswordXGrid {
     public int minSum(String[] horizontal, String[] vertical) {
         int n = horizontal.length, m = vertical[0].length();

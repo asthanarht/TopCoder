@@ -1,5 +1,3 @@
-package srm379;
-
 public class FillBox {
     public int minCubes(int length, int width, int height, int[] cubes) {
         int n = cubes.length;

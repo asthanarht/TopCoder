@@ -1,5 +1,3 @@
-package srm544;
-
 public class FlipGame {
     private static int N;
     private static int M;

@@ -1,5 +1,3 @@
-package srm614;
-
 public class MicroStrings {
 
 	public String makeMicroString(int A, int D) {

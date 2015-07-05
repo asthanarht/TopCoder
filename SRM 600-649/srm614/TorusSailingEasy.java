@@ -1,5 +1,3 @@
-package srm614;
-
 public class TorusSailingEasy {
 
 	public double expectedTime(int N, int M, int goalX, int goalY) {

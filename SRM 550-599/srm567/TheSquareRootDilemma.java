@@ -1,5 +1,3 @@
-package srm567;
-
 public class TheSquareRootDilemma {
     public int countPairs(int N, int M) {
         int count = ((int) Math.sqrt(N)) * ((int) Math.sqrt(M));

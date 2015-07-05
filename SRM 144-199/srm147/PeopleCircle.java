@@ -1,5 +1,3 @@
-package srm147;
-
 public class PeopleCircle {
 
     public static String order(int numMales, int numFemales, int K) {

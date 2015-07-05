@@ -1,5 +1,3 @@
-package srm559;
-
 public class HyperKnight {
     public long countCells(int a, int b, int numRows, int numColumns, int k) {
         long nr = numRows, nc = numColumns, A = a, B = b;

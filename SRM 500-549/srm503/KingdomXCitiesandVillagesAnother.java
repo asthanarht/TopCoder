@@ -1,5 +1,3 @@
-package srm503;
-
 import java.util.HashSet;
 
 public class KingdomXCitiesandVillagesAnother {

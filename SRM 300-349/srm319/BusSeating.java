@@ -1,5 +1,3 @@
-package srm319;
-
 public class BusSeating {
     public double getArrangement(String leftRow, String rightRow) {
         boolean[][] seat = new boolean[2][10];

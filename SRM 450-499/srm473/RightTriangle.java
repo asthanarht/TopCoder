@@ -1,5 +1,3 @@
-package srm473;
-
 public class RightTriangle {
     public static void main(String[] args) {
         System.out.println(triangleCount(1, 1, 21421, 435, 354));

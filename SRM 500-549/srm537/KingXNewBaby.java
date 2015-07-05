@@ -1,5 +1,3 @@
-package srm537;
-
 public class KingXNewBaby {
     public String isValid(String name) {
         if (name.length() != 8)

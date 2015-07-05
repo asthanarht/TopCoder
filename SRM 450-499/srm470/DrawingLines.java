@@ -1,5 +1,3 @@
-package srm470;
-
 public class DrawingLines {
     public double countLineCrossings(int n, int[] startDot, int[] endDot) {
         double result = 0;

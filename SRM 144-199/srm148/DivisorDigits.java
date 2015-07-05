@@ -1,5 +1,3 @@
-package srm148;
-
 public class DivisorDigits {
     public int howMany(int number) {
         String s = "" + number;

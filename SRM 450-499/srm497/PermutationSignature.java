@@ -1,5 +1,3 @@
-package srm497;
-
 /**
  * This is a greedy solution.
  * 

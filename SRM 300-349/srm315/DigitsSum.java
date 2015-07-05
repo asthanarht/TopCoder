@@ -1,5 +1,3 @@
-package srm315;
-
 public class DigitsSum {
     public int lastDigit(int n) {
         while (n > 9) {

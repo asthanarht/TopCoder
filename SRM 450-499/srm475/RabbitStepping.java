@@ -1,5 +1,3 @@
-package srm475;
-
 import java.util.Arrays;
 
 public class RabbitStepping {

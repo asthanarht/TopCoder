@@ -1,5 +1,3 @@
-package srm146;
-
 import java.util.LinkedList;
 
 public class BridgeCrossing {

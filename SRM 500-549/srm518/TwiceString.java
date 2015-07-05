@@ -1,5 +1,3 @@
-package srm518;
-
 public class TwiceString {
     public static String getShortest(String s) {
         for (int i = 1; i < s.length(); i++) {

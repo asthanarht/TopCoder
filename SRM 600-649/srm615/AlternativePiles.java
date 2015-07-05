@@ -1,5 +1,3 @@
-package srm615;
-
 public class AlternativePiles {
 	private static final int MOD = 1000000007;
 

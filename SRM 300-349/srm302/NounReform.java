@@ -1,5 +1,3 @@
-package srm302;
-
 public class NounReform {
     public String[] makePlural(String[] nouns) {
         String[] es = { "s", "z", "x", "ch", "sh" };

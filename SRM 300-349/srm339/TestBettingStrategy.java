@@ -1,5 +1,3 @@
-package srm339;
-
 public class TestBettingStrategy {
     private double res = 0, p, np;
     double[][][] dp = new double[51][1001][11]; // possibility[round][money][lose]

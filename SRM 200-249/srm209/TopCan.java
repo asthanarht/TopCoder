@@ -1,5 +1,3 @@
-package srm209;
-
 public class TopCan {
     public double minSurface(int volume) {
         double r = Math.cbrt(volume / (2.0 * Math.PI));

@@ -1,5 +1,3 @@
-package srm612;
-
 import java.util.Arrays;
 
 public class PowersOfTwo {

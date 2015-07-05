@@ -1,5 +1,3 @@
-package srm318;
-
 public class CyclicGame {
     public double estimateBank(int[] cells) {
         int n = cells.length;

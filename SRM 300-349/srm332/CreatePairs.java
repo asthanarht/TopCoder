@@ -1,5 +1,3 @@
-package srm332;
-
 import java.util.Arrays;
 
 public class CreatePairs {

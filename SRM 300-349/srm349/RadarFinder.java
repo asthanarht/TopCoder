@@ -1,5 +1,3 @@
-package srm349;
-
 public class RadarFinder {
     public int possibleLocations(int x1, int y1, int r1, int x2, int y2, int r2) {
         if (x1 == x2 && y1 == y2 && r1 == r2)

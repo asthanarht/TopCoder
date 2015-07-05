@@ -1,5 +1,3 @@
-package srm519;
-
 public class WhichDay {
     public String getDay(String[] notOnThisDay) {
         int total = 1 + 2 + 3 + 4 + 5 + 6;

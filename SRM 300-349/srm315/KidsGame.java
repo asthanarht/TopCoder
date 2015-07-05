@@ -1,5 +1,3 @@
-package srm315;
-
 public class KidsGame {
     public int kthKid(int n, int m, int k) {
         int res = 1;

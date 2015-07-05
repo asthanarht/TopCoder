@@ -1,5 +1,3 @@
-package srm416;
-
 public class MostCommonLetters {
     public String listMostCommon(String[] text) {
         int count[] = new int[26], index = 0;

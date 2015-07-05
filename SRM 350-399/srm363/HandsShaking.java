@@ -1,5 +1,3 @@
-package srm363;
-
 public class HandsShaking {
     public long countPerfect(int n) {
         long[] dp = new long[n + 1];

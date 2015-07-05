@@ -1,5 +1,3 @@
-package srm389;
-
 public class ApproximateDivision {
     public double quotient(int a, int b, int terms) {
         int t = 1;

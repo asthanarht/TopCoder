@@ -1,5 +1,3 @@
-package srm493;
-
 public class StonesGame {
     public String winner(int N, int M, int K, int L) {
         if (check(N, M, K, L))

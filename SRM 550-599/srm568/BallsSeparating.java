@@ -1,5 +1,3 @@
-package srm568;
-
 public class BallsSeparating {
     public int minOperations(int[] red, int[] green, int[] blue) {
         int n = red.length;

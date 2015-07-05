@@ -1,5 +1,3 @@
-package srm358;
-
 public class BrokenButtons {
     public int minPresses(int page, int[] broken) {
         boolean[] bad = new boolean[10];

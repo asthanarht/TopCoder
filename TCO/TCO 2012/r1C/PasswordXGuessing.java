@@ -1,5 +1,3 @@
-package r1C;
-
 import java.util.Arrays;
 
 public class PasswordXGuessing {

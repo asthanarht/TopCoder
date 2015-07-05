@@ -1,5 +1,3 @@
-package srm428;
-
 public class TheLuckyString {
     private int total = 0;
     private int[] chars = new int[26];

@@ -1,5 +1,3 @@
-package srm598;
-
 public class TPS {
 	public int n;
 	boolean[][] tree;

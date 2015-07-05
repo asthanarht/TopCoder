@@ -1,5 +1,3 @@
-package srm311;
-
 public class EscapeFromRectangle {
     public int shortest(int x, int y, int w, int h) {
         int min = Math.min(x, y);

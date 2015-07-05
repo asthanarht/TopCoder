@@ -1,5 +1,3 @@
-package srm556;
-
 import java.util.LinkedList;
 import java.util.Queue;
 

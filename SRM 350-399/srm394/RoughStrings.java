@@ -1,5 +1,3 @@
-package srm394;
-
 import java.util.Arrays;
 
 public class RoughStrings {

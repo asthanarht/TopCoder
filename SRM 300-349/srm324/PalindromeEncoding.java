@@ -1,5 +1,3 @@
-package srm324;
-
 public class PalindromeEncoding {
     public int getLength(String s) {
         int start, end;

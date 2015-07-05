@@ -1,5 +1,3 @@
-package srm466;
-
 public class LotteryCheating {
     // the number of divisors of a number is odd iff it is a perfect square
     public int minimalChange(String ID) {

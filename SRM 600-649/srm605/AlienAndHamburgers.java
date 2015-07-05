@@ -1,5 +1,3 @@
-package srm605;
-
 public class AlienAndHamburgers {
 	public int getNumber(int[] type, int[] taste) {
 		int n = type.length;

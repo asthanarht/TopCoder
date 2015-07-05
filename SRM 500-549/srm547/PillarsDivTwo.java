@@ -1,5 +1,3 @@
-package srm547;
-
 public class PillarsDivTwo {
     public double maximalLength(int[] height, int w) {
         int n = height.length;

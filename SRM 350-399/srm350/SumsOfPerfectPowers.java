@@ -1,5 +1,3 @@
-package srm350;
-
 import java.util.ArrayList;
 
 public class SumsOfPerfectPowers {

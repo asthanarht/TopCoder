@@ -1,5 +1,3 @@
-package srm340;
-
 public class ProblemsToSolve {
     public int minNumber(int[] pleasantness, int variety) {
         int n = pleasantness.length;

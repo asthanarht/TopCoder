@@ -1,5 +1,3 @@
-package srm526;
-
 import java.util.Arrays;
 
 public class DucksAlignment {

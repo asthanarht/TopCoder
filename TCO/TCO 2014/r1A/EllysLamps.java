@@ -1,5 +1,3 @@
-package r1A;
-
 public class EllysLamps {
 
 	public int getMin(String lamps) {

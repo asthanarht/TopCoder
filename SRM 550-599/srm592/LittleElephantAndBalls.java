@@ -1,5 +1,3 @@
-package srm592;
-
 import java.util.Arrays;
 
 public class LittleElephantAndBalls {

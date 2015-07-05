@@ -1,5 +1,3 @@
-package r2A;
-
 import java.util.Arrays;
 
 public class SixteenBricks {

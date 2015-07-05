@@ -1,5 +1,3 @@
-package srm564;
-
 public class AlternateColors2 {
     public long countWays(int n, int k) {
         // ways[ith ball][i-2th color][i-1th color][ith color]

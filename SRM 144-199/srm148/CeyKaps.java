@@ -1,5 +1,3 @@
-package srm148;
-
 public class CeyKaps {
     public String decipher(String typed, String[] switches) {
         int m = typed.length();

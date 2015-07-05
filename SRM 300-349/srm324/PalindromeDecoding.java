@@ -1,5 +1,3 @@
-package srm324;
-
 public class PalindromeDecoding {
     public String decode(String code, int[] position, int[] length) {
         for (int i = 0; i < position.length; i++) {

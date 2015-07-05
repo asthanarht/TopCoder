@@ -1,5 +1,3 @@
-package srm322;
-
 public class ExtendedDominoes {
     public long countCycles(String[] pieces) {
         int[] pairing = new int[10];

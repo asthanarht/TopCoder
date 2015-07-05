@@ -1,5 +1,3 @@
-package srm352;
-
 import java.util.Arrays;
 
 public class FibonacciKnapsack {

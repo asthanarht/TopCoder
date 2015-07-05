@@ -1,5 +1,3 @@
-package srm483;
-
 public class BestApproximationDiv1 {
     private static char[] num;
 

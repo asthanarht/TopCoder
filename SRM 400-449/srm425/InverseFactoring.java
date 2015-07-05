@@ -1,5 +1,3 @@
-package srm425;
-
 public class InverseFactoring {
     public int getTheNumber(int[] factors) {
         int lcm = factors[0];

@@ -1,5 +1,3 @@
-package srm609;
-
 public class MagicalStringDiv1 {
 
 	public int getLongest(String S) {

@@ -1,5 +1,3 @@
-package srm491;
-
 public class FoxMakingDice {
     public long theCount(int N, int K) {
         long result = 0;

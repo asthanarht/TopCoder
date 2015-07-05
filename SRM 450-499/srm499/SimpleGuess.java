@@ -1,5 +1,3 @@
-package srm499;
-
 public class SimpleGuess {
     public int getMaximum(int[] hints) {
         int max = 0;

@@ -1,5 +1,3 @@
-package srm452;
-
 public class NotTwo {
     public int maxStones(int width, int height) {
         int count = 0;

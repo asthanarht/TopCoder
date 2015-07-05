@@ -1,5 +1,3 @@
-package srm235;
-
 import java.util.Arrays;
 
 public class NoisySensor {

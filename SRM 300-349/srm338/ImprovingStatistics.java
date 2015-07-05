@@ -1,5 +1,3 @@
-package srm338;
-
 public class ImprovingStatistics {
     public int howManyGames(int played, int won) {
         long t = played, w = won;

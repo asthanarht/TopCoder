@@ -1,5 +1,3 @@
-package srm343;
-
 public class CDPlayer {
     public int isRandom(String[] songlist, int n) {
         String all = "";

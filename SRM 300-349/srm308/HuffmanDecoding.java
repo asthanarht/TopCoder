@@ -1,5 +1,3 @@
-package srm308;
-
 import java.util.HashMap;
 
 public class HuffmanDecoding {

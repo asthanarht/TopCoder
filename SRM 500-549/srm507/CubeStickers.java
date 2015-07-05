@@ -1,5 +1,3 @@
-package srm507;
-
 import java.util.HashSet;
 
 public class CubeStickers {

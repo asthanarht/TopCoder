@@ -1,5 +1,3 @@
-package srm610;
-
 public class MiningGoldEasy {
 
 	public int GetMaximumGold(int N, int M, int[] event_i, int[] event_j) {

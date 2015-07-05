@@ -1,5 +1,3 @@
-package srm153;
-
 public class Inventory {
     public int monthlyOrder(int[] sales, int[] daysAvailable) {
         int n = sales.length;

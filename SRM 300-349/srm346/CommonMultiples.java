@@ -1,5 +1,3 @@
-package srm346;
-
 public class CommonMultiples {
     public int countCommMult(int[] a, int lower, int upper) {
         long lcm = a[0];

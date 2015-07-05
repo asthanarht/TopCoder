@@ -1,5 +1,3 @@
-package srm522;
-
 public class CorrectMultiplicationTwo {
     public int getMinimum(int a, int b, int c) {
         int min = a + b + c;

@@ -1,5 +1,3 @@
-package srm344;
-
 import java.util.Arrays;
 
 public class VolleyballTournament {

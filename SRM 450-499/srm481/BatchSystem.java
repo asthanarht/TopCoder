@@ -1,5 +1,3 @@
-package srm481;
-
 import java.util.HashMap;
 
 public class BatchSystem {

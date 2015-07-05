@@ -1,5 +1,3 @@
-package srm555;
-
 public class XorBoard {
     public final long MOD = 555555555;
     public long[][] C = new long[2500][2500];

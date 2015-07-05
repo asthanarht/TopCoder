@@ -1,5 +1,3 @@
-package srm336;
-
 public class LikelyWord {
     private static long maxRange = 0;
     private static int index = 0, count = 0;

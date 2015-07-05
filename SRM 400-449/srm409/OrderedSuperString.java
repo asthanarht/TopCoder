@@ -1,5 +1,3 @@
-package srm409;
-
 public class OrderedSuperString {
     public int getLength(String[] words) {
         int n = words.length;

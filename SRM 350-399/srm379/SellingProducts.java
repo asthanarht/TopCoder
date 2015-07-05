@@ -1,5 +1,3 @@
-package srm379;
-
 public class SellingProducts {
     public int optimalPrice(int[] price, int[] cost) {
         int n = price.length;

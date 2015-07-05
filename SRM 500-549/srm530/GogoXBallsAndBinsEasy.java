@@ -1,5 +1,3 @@
-package srm530;
-
 import java.util.Arrays;
 
 public class GogoXBallsAndBinsEasy {

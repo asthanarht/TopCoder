@@ -1,5 +1,3 @@
-package srm144;
-
 public class BinaryCode {
 
     public String[] decode(String message) {

@@ -1,5 +1,3 @@
-package srm564;
-
 public class KnightCircuit2 {
     public int maxSize(int w, int h) {
         if (w == 1 || h == 1)

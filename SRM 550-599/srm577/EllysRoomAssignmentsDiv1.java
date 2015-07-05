@@ -1,5 +1,3 @@
-package srm577;
-
 import java.util.Arrays;
 
 public class EllysRoomAssignmentsDiv1 {

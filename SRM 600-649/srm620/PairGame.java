@@ -1,5 +1,3 @@
-package srm620;
-
 public class PairGame {
 
 	public int maxSum(int a, int b, int c, int d) {

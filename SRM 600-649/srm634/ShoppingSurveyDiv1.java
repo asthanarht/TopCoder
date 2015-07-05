@@ -1,5 +1,3 @@
-package srm634;
-
 public class ShoppingSurveyDiv1 {
 
 	public int minValue(int N, int K, int[] s) {

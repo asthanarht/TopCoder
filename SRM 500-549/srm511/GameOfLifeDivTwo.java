@@ -1,5 +1,3 @@
-package srm511;
-
 public class GameOfLifeDivTwo {
     public String theSimulation(String init, int T) {
         char[] s = init.toCharArray();

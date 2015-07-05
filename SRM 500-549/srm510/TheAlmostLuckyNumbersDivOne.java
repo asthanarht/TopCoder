@@ -1,5 +1,3 @@
-package srm510;
-
 public class TheAlmostLuckyNumbersDivOne {
     private long n1;
     private long n2;

@@ -1,5 +1,3 @@
-package srm301;
-
 public class IndicatorMotionReverse {
     private char s[] = { '|', '/', '-', 'N' };
 

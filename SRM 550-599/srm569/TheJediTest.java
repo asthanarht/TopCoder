@@ -1,5 +1,3 @@
-package srm569;
-
 public class TheJediTest {
     public int minimumSupervisors(int[] students, int K) {
         if (System.currentTimeMillis() % 2 == 0)

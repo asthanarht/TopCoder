@@ -1,5 +1,3 @@
-package srm467;
-
 public class ShorterSuperSum {
     public int calculate(int k, int n) {
         int[][] dp = new int[k + 1][n + 1];

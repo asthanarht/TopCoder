@@ -1,5 +1,3 @@
-package srm504_5;
-
 public class TheNumbersWithLuckyLastDigit {
 
     public int find(int n) {

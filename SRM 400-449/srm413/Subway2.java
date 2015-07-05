@@ -1,5 +1,3 @@
-package srm413;
-
 public class Subway2 {
     public double minTime(int length, int maxAcceleration, int maxVelocity) {
         double l = (double) length;

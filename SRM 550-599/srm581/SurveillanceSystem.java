@@ -1,5 +1,3 @@
-package srm581;
-
 import java.util.Arrays;
 
 public class SurveillanceSystem {

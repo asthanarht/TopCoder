@@ -1,5 +1,3 @@
-package srm561;
-
 import java.util.Arrays;
 
 public class ICPCBalloons {

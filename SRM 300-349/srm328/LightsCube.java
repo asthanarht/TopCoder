@@ -1,5 +1,3 @@
-package srm328;
-
 public class LightsCube {
     public int[] count(int N, String[] lights) {
         int n = lights.length;

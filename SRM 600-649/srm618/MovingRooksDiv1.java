@@ -1,5 +1,3 @@
-package srm618;
-
 import java.util.ArrayList;
 
 public class MovingRooksDiv1 {

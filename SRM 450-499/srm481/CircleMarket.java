@@ -1,5 +1,3 @@
-package srm481;
-
 public class CircleMarket {
     public int makePurchases(int[] openTime, int[] closeTime, int travelTime) {
         int n = openTime.length;

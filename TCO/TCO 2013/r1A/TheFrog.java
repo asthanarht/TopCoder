@@ -1,5 +1,3 @@
-package r1A;
-
 import java.util.Arrays;
 
 public class TheFrog {

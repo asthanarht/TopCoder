@@ -1,5 +1,3 @@
-package srm316;
-
 public class InboxCleanup {
     public int fewestClicks(String messages, int low, int high) {
         int n = messages.length();

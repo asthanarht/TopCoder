@@ -1,5 +1,3 @@
-package srm369;
-
 public class BeautifulString {
     public int maximumLength(int countA, int countB, int maxA, int maxB) {
         int segA = maxA == 0 ? 0 : (countA + maxA - 1) / maxA;

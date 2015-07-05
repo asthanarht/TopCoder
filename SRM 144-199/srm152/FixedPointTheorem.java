@@ -1,5 +1,3 @@
-package srm152;
-
 public class FixedPointTheorem {
     private double r;
 

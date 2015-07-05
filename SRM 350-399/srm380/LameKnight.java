@@ -1,5 +1,3 @@
-package srm380;
-
 public class LameKnight {
     public int maxCells(int height, int width) {
         int max = 1;

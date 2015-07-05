@@ -1,5 +1,3 @@
-package srm570;
-
 public class RobotHerb {
     public long getdist(int T, int[] a) {
         int n = a.length;

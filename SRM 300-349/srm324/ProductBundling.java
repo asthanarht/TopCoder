@@ -1,5 +1,3 @@
-package srm324;
-
 public class ProductBundling {
     public int howManyBundles(String[] data) {
         int n = data[0].length();

@@ -1,5 +1,3 @@
-package srm330;
-
 public class Arrows {
     public int longestArrow(String s) {
         int len = -1;

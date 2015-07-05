@@ -1,5 +1,3 @@
-package srm542;
-
 public class PatrolRoute {
     public static int countRoutes(int X, int Y, int minT, int maxT) {
         long res = 0, mod = 1000000007;

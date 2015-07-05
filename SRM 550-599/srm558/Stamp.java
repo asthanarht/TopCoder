@@ -1,5 +1,3 @@
-package srm558;
-
 public class Stamp {
     public int getMinimumCost(String desiredColor, int stampCost, int pushCost) {
         int n = desiredColor.length();

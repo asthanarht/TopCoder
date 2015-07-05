@@ -1,5 +1,3 @@
-package srm617;
-
 public class MyLongCake {
 
 	public int cut(int n) {

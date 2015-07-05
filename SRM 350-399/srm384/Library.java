@@ -1,5 +1,3 @@
-package srm384;
-
 import java.util.HashSet;
 
 public class Library {

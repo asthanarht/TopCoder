@@ -1,5 +1,3 @@
-package srm612;
-
 public class EmoticonsDiv2 {
 	public int printSmiles(int smiles) {
 		int res = 0;

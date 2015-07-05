@@ -1,5 +1,3 @@
-package srm151;
-
 public class Birthday {
     public String getNext(String date, String[] birthdays) {
         int n = birthdays.length;

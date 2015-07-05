@@ -1,5 +1,3 @@
-package srm654;
-
 public class SquareScores {
 
 	public double calcexpectation(int[] p, String s) {

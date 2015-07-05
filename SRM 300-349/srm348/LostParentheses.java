@@ -1,5 +1,3 @@
-package srm348;
-
 public class LostParentheses {
     public int minResult(String e) {
         String[] minus = e.split("-");

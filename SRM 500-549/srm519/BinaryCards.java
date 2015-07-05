@@ -1,5 +1,3 @@
-package srm519;
-
 public class BinaryCards {
     public long largestNumber(long A, long B) {
         if (A == B)

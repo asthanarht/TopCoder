@@ -1,5 +1,3 @@
-package srm500;
-
 public class MafiaGame {
     public static double probabilityToLose(int N, int[] decisions) {
         int vote[] = new int[N];

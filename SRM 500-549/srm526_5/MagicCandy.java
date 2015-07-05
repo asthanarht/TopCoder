@@ -1,5 +1,3 @@
-package srm526_5;
-
 public class MagicCandy {
     public int whichOne(int n) {
         int last;

@@ -1,5 +1,3 @@
-package srm538;
-
 public class EvenRoute {
     public String isItPossible(int[] x, int[] y, int wantedParity) {
         for (int i = 0; i < x.length; i++)

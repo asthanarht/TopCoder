@@ -1,5 +1,3 @@
-package srm292;
-
 public class FowlRoad {
     public int crossings(int roadY, int[] bobX, int[] bobY) {
         int count = 0;

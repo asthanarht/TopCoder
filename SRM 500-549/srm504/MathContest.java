@@ -1,5 +1,3 @@
-package srm504;
-
 public class MathContest {
 
     public int countBlack(String ballSequence, int repetitions) {

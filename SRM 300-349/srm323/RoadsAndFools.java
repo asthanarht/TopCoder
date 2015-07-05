@@ -1,5 +1,3 @@
-package srm323;
-
 public class RoadsAndFools {
     public String determineOrientation(int length, int[] frontSides) {
         int n = frontSides.length;

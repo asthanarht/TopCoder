@@ -1,5 +1,3 @@
-package srm484;
-
 import java.util.LinkedList;
 
 public class RabbitNumber {

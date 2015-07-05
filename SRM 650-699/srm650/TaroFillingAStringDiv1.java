@@ -1,5 +1,3 @@
-package srm650;
-
 import java.util.Arrays;
 
 public class TaroFillingAStringDiv1 {

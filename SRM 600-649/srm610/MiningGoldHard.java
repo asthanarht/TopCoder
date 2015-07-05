@@ -1,5 +1,3 @@
-package srm610;
-
 import java.util.ArrayList;
 
 // two coordinates are independent, can be solved independently 

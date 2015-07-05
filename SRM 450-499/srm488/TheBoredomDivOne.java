@@ -1,5 +1,3 @@
-package srm488;
-
 public class TheBoredomDivOne {
     public double find(int n, int m) {
         int total = n + m;

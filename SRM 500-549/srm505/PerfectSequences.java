@@ -1,5 +1,3 @@
-package srm505;
-
 public class PerfectSequences {
 
     public String fixIt(int[] seq) {

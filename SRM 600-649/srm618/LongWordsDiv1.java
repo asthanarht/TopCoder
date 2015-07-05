@@ -1,5 +1,3 @@
-package srm618;
-
 public class LongWordsDiv1 {
 
 	public int count(int n) {

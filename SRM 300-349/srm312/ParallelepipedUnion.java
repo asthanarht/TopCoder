@@ -1,5 +1,3 @@
-package srm312;
-
 import java.util.Scanner;
 
 public class ParallelepipedUnion {

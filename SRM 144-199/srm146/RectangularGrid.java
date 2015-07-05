@@ -1,5 +1,3 @@
-package srm146;
-
 public class RectangularGrid {
     public long countRectangles(int width, int height) {
         int[] w = new int[width + 1];

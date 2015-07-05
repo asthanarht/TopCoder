@@ -1,5 +1,3 @@
-package srm317;
-
 public class PalindromicNumbers {
     private int L;
     private int U;

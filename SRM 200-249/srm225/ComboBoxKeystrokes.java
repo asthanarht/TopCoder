@@ -1,5 +1,3 @@
-package srm225;
-
 import java.util.Arrays;
 
 public class ComboBoxKeystrokes {

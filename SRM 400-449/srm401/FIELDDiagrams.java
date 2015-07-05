@@ -1,5 +1,3 @@
-package srm401;
-
 public class FIELDDiagrams {
     public long countDiagrams(int fieldOrder) {
         int n = fieldOrder;

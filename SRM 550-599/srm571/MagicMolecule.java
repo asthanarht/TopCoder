@@ -1,5 +1,3 @@
-package srm571;
-
 public class MagicMolecule {
     private static int n;
     private static long[] mask;

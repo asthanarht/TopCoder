@@ -1,5 +1,3 @@
-package srm402;
-
 import java.util.HashMap;
 
 public class RandomSort {

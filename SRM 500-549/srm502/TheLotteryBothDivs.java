@@ -1,5 +1,3 @@
-package srm502;
-
 import java.util.HashSet;
 
 public class TheLotteryBothDivs {

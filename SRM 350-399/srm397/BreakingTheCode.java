@@ -1,5 +1,3 @@
-package srm397;
-
 public class BreakingTheCode {
     public String decodingEncoding(String code, String message) {
         if (message.charAt(0) >= '0' && message.charAt(0) <= '9') {

@@ -1,5 +1,3 @@
-package srm375;
-
 import java.util.ArrayList;
 
 public class DivisibleByDigits {

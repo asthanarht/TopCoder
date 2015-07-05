@@ -1,5 +1,3 @@
-package srm372;
-
 public class RoadConstruction {
     public int getExitTime(String[] currentLanes) {
         int n = currentLanes.length, highest = 0;

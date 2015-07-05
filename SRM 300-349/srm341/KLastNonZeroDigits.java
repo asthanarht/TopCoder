@@ -1,5 +1,3 @@
-package srm341;
-
 public class KLastNonZeroDigits {
     public String getKDigits(int N, int K) {
         long res = 1;

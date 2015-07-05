@@ -1,5 +1,3 @@
-package srm466;
-
 import java.math.BigInteger;
 
 public class LotteryPyaterochka {

@@ -1,5 +1,3 @@
-package srm489;
-
 public class BallsConverter {
     public String theGood(String[] convert) {
         int n = convert.length;

@@ -1,5 +1,3 @@
-package srm470;
-
 public class DoorsGame {
     public int determineOutcome(String doors, int trophy) {
         boolean[] doorJohn = new boolean[26];

@@ -1,5 +1,3 @@
-package srm387;
-
 public class MarblesRegroupingEasy {
     public int minMoves(String[] boxes) {
         int m = boxes.length;

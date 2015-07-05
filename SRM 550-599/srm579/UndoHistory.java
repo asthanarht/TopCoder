@@ -1,5 +1,3 @@
-package srm579;
-
 public class UndoHistory {
     public int minPresses(String[] lines) {
         int total = lines[0].length() + 1;

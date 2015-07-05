@@ -1,5 +1,3 @@
-package srm371;
-
 import java.util.Arrays;
 
 public class ChessMatchup {

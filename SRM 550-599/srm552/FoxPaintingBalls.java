@@ -1,5 +1,3 @@
-package srm552;
-
 public class FoxPaintingBalls {
     public long theMax(long R, long G, long B, int N) {
         if (N == 1)

@@ -1,5 +1,3 @@
-package srm636;
-
 public class ChocolateDividingEasy {
 
 	public int findBest(String[] chocolate) {

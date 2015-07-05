@@ -1,5 +1,3 @@
-package srm519;
-
 import java.util.StringTokenizer;
 
 public class ThreeTeleports {

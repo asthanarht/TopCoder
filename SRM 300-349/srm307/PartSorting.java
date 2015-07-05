@@ -1,5 +1,3 @@
-package srm307;
-
 public class PartSorting {
     public int[] process(int[] data, int nSwaps) {
         int n = data.length;

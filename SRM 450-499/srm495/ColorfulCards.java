@@ -1,5 +1,3 @@
-package srm495;
-
 import java.util.Arrays;
 
 public class ColorfulCards {

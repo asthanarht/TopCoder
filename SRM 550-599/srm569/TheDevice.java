@@ -1,5 +1,3 @@
-package srm569;
-
 public class TheDevice {
     public int minimumAdditional(String[] plates) {
         int result = 0;

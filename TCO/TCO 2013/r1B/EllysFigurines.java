@@ -1,5 +1,3 @@
-package r1B;
-
 public class EllysFigurines {
     public int getMoves(String[] board, int R, int C) {
         int n = board.length, m = board[0].length();

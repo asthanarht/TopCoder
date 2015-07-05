@@ -1,5 +1,3 @@
-package srm575;
-
 public class TheSwapsDivOne {
     public double find(String[] sequence, int k) {
         String seq = "";

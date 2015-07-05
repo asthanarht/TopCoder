@@ -1,5 +1,3 @@
-package srm610;
-
 public class TheMatrix {
 	public int MaxArea(String[] board) {
 		int m = board.length, n = board[0].length();

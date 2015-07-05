@@ -1,5 +1,3 @@
-package srm425;
-
 public class CrazyBot {
     boolean[][] visited;
     double[] p;

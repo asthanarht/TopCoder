@@ -1,5 +1,3 @@
-package r1A;
-
 public class Similars {
 
 	public int maxsim(int L, int R) {

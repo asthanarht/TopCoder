@@ -1,5 +1,3 @@
-package srm656;
-
 public class RandomPancakeStack {
 
 	public double expectedDeliciousness(int[] d) {

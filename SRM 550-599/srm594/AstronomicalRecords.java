@@ -1,5 +1,3 @@
-package srm594;
-
 public class AstronomicalRecords {
     public int minimalPlanets(int[] A, int[] B) {
         int m = A.length, n = B.length;

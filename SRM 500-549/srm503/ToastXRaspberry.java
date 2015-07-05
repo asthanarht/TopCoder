@@ -1,5 +1,3 @@
-package srm503;
-
 public class ToastXRaspberry {
     public int apply(int upper_limit, int layer_count) {
         if (layer_count % upper_limit == 0)

@@ -1,5 +1,3 @@
-package r2A;
-
 public class TheLargestString {
     public static String find(String s, String t) {
         int n = s.length();

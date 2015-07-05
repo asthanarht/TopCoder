@@ -1,5 +1,3 @@
-package srm504_5;
-
 import java.util.Arrays;
 
 public class TheJackpotDivTwo {

@@ -1,5 +1,3 @@
-package srm480;
-
 public class NetworkSecurity {
     public int secureNetwork(String[] clientCable, String[] serverCable) {
         int c = clientCable.length;

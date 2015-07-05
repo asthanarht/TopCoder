@@ -1,5 +1,3 @@
-package r1B;
-
 public class WolvesAndSheep {
 
 	public int getmin(String[] field) {

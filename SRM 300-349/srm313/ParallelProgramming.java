@@ -1,5 +1,3 @@
-package srm313;
-
 public class ParallelProgramming {
     public int minTime(int[] time, String[] prec) {
         int n = time.length;

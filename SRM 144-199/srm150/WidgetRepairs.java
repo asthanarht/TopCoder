@@ -1,5 +1,3 @@
-package srm150;
-
 public class WidgetRepairs {
     public int days(int[] arrivals, int numPerDay) {
         int count = 0;

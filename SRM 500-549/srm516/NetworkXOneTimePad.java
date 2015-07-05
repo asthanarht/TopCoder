@@ -1,5 +1,3 @@
-package srm516;
-
 import java.util.HashSet;
 
 public class NetworkXOneTimePad {

@@ -1,5 +1,3 @@
-package srm507;
-
 public class CubeAnts {
     public int getMinimumSteps(int[] pos) {
         if (has(6, pos))

@@ -1,5 +1,3 @@
-package srm482;
-
 import java.util.ArrayList;
 
 public class LockersDivOne {

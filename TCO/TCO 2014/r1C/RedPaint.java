@@ -1,5 +1,3 @@
-package r1C;
-
 public class RedPaint {
 
 	public double expectedCells(int N) {

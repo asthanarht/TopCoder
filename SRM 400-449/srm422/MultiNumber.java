@@ -1,5 +1,3 @@
-package srm422;
-
 public class MultiNumber {
     public String check(int number) {
         String num = String.valueOf(number);

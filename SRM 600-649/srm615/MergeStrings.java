@@ -1,5 +1,3 @@
-package srm615;
-
 public class MergeStrings {
 
 	public String getmin(String S, String A, String B) {

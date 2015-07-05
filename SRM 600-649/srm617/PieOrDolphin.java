@@ -1,5 +1,3 @@
-package srm617;
-
 public class PieOrDolphin {
 
 	public int[] Distribute(int[] choice1, int[] choice2) {

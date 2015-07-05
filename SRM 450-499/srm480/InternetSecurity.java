@@ -1,5 +1,3 @@
-package srm480;
-
 import java.util.HashSet;
 
 public class InternetSecurity {

@@ -1,5 +1,3 @@
-package srm534;
-
 public class EllysCheckers {
     public static String getWinner(String board) {
         int count = 0;

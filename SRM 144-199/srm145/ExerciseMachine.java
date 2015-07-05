@@ -1,5 +1,3 @@
-package srm145;
-
 public class ExerciseMachine {
 
     public int getPercentages(String time) {

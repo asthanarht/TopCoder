@@ -1,5 +1,3 @@
-package srm551;
-
 import java.util.PriorityQueue;
 
 public class ColorfulChocolates {

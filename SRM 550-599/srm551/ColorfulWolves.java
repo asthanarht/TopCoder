@@ -1,5 +1,3 @@
-package srm551;
-
 public class ColorfulWolves {
     public int getmin(String[] colormap) {
         int N = colormap.length;

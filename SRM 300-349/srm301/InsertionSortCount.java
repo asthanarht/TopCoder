@@ -1,5 +1,3 @@
-package srm301;
-
 public class InsertionSortCount {
     public int countMoves(int[] A) {
         int move = 0;

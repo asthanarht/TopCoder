@@ -1,5 +1,3 @@
-package srm516;
-
 public class NetworkXZeroOne {
     public String reconstruct(String message) {
         int n = message.length();

@@ -1,5 +1,3 @@
-package srm554;
-
 public class TheBrickTowerEasyDivOne {
     public int find(int redCount, int redHeight, int blueCount, int blueHeight) {
         if (redHeight == blueHeight)

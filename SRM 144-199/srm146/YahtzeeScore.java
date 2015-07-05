@@ -1,5 +1,3 @@
-package srm146;
-
 public class YahtzeeScore {
 
     public int maxPoints(int[] toss) {

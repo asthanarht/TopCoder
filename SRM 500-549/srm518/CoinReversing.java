@@ -1,5 +1,3 @@
-package srm518;
-
 public class CoinReversing {
     public double expectedHeads(int N, int[] a) {
         double h = N;

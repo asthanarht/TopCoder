@@ -1,5 +1,3 @@
-package srm524;
-
 public class MagicDiamonds {
     public long minimalTransfer(long n) {
         if (n <= 3)

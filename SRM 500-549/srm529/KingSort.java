@@ -1,5 +1,3 @@
-package srm529;
-
 public class KingSort {
     public String[] getSortedList(String[] kings) {
         for (int i = 0; i < kings.length - 1; i++)

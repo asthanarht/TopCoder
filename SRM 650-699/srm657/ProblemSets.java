@@ -1,5 +1,3 @@
-package srm657;
-
 public class ProblemSets {
 
 	public long maxSets(long E, long EM, long M, long MH, long H) {

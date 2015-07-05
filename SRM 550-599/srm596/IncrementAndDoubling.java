@@ -1,5 +1,3 @@
-package srm596;
-
 public class IncrementAndDoubling {
     public int getMin(int[] desiredArray) {
         int n = desiredArray.length;

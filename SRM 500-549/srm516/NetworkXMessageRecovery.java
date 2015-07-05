@@ -1,5 +1,3 @@
-package srm516;
-
 public class NetworkXMessageRecovery {
     public String recover(String[] messages) {
         boolean[] V = new boolean[52];

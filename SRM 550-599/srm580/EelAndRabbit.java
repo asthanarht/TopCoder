@@ -1,5 +1,3 @@
-package srm580;
-
 public class EelAndRabbit {
     public int getmax(int[] l, int[] t) {
         int n = l.length;

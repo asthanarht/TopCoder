@@ -1,5 +1,3 @@
-package srm382;
-
 public class PointsOnACircle {
     public int color(String[] points) {
         boolean[] space = new boolean[360];

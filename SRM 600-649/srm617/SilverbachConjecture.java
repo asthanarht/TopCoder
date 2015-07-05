@@ -1,5 +1,3 @@
-package srm617;
-
 public class SilverbachConjecture {
 
 	public int[] solve(int n) {

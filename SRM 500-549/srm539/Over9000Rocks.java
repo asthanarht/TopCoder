@@ -1,5 +1,3 @@
-package srm539;
-
 import java.util.Arrays;
 
 public class Over9000Rocks {

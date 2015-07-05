@@ -1,5 +1,3 @@
-package srm415;
-
 import java.util.Arrays;
 
 public class CollectingUsualPostmarks {

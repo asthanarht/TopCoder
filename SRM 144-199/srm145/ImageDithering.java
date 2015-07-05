@@ -1,5 +1,3 @@
-package srm145;
-
 import java.util.HashSet;
 
 public class ImageDithering {

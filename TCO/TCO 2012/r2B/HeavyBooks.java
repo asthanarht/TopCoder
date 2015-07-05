@@ -1,5 +1,3 @@
-package r2B;
-
 import java.util.Arrays;
 
 public class HeavyBooks {

@@ -1,5 +1,3 @@
-package srm606;
-
 import java.util.HashSet;
 
 public class EllysPairing {

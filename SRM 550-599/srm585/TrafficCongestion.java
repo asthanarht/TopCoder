@@ -1,5 +1,3 @@
-package srm585;
-
 public class TrafficCongestion {
     public int theMinCars(int treeHeight) {
         long mod = 1000000007;

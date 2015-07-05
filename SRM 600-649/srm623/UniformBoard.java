@@ -1,4 +1,3 @@
-package srm623;
 public class UniformBoard {
 
     public int getBoard(String[] board, int K) {

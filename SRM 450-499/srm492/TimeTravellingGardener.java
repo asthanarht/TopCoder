@@ -1,5 +1,3 @@
-package srm492;
-
 public class TimeTravellingGardener {
     private final double EPS = 1e-11;
 

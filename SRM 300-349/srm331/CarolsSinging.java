@@ -1,5 +1,3 @@
-package srm331;
-
 public class CarolsSinging {
     public int choose(String[] lyrics) {
         int n = lyrics.length, m = lyrics[0].length();

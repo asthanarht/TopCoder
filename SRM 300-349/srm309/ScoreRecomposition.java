@@ -1,5 +1,3 @@
-package srm309;
-
 import java.math.BigInteger;
 
 public class ScoreRecomposition {

@@ -1,5 +1,3 @@
-package srm535;
-
 import java.math.BigInteger;
 
 public class FoxAndGCDLCM {

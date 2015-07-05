@@ -1,5 +1,3 @@
-package srm399;
-
 import java.util.HashSet;
 
 public class AvoidingProduct {

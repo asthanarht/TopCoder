@@ -1,5 +1,3 @@
-package srm311;
-
 import java.util.Arrays;
 
 public class MatrixTransforming {

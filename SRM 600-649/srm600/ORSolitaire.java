@@ -1,5 +1,3 @@
-package srm600;
-
 public class ORSolitaire {
     public int getMinimum(int[] numbers, int goal) {
         int[] cnt = new int[32];

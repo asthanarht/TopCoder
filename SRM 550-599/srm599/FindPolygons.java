@@ -1,5 +1,3 @@
-package srm599;
-
 public class FindPolygons {
 	long p;
 

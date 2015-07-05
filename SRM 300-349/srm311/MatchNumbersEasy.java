@@ -1,5 +1,3 @@
-package srm311;
-
 public class MatchNumbersEasy {
     public String maxNumber(int[] matches, int n) {
         String[] dp = new String[n + 1];

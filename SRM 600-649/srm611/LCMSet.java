@@ -1,5 +1,3 @@
-package srm611;
-
 public class LCMSet {
 	public String equal(int[] A, int[] B) {
 		return (check(A, B) && check(B, A)) ? "Equal" : "Not equal";

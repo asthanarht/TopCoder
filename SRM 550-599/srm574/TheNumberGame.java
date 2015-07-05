@@ -1,5 +1,3 @@
-package srm574;
-
 public class TheNumberGame {
     public String determineOutcome(int A, int B) {
         String a = "" + A;

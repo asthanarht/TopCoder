@@ -1,5 +1,3 @@
-package srm615;
-
 public class LongLongTripDiv2 {
 
 	public String isAble(long D, int T, int B) {

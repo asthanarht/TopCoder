@@ -1,5 +1,3 @@
-package srm477;
-
 public class Islands {
     public int beachLength(String[] kingdom) {
         int n = kingdom.length, m = kingdom[0].length();

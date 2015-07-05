@@ -1,5 +1,3 @@
-package srm527;
-
 public class P8XGraphBuilder {
     public int solve(int[] scores) {
         int n = scores.length;

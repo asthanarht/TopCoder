@@ -1,5 +1,3 @@
-package srm554;
-
 public class TheBrickTowerMediumDivOne {
     public int[] find(int[] heights) {
         int n = heights.length;

@@ -1,5 +1,3 @@
-package srm385;
-
 public class UnderscoreJustification {
     public String justifyLine(String[] words, int width) {
         int charCount = 0;

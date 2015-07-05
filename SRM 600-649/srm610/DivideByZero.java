@@ -1,5 +1,3 @@
-package srm610;
-
 public class DivideByZero {
 
 	public int CountNumbers(int[] numbers) {

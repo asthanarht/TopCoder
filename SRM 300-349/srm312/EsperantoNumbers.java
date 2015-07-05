@@ -1,5 +1,3 @@
-package srm312;
-
 public class EsperantoNumbers {
     public String nameThisNumber(int x) {
         String[] num = { "unu", "du", "tri", "kvar", "kvin", "ses", "sep",

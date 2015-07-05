@@ -1,5 +1,3 @@
-package srm349;
-
 import java.util.Arrays;
 
 public class DiceGames {

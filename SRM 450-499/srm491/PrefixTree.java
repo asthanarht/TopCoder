@@ -1,5 +1,3 @@
-package srm491;
-
 import java.util.Arrays;
 
 public class PrefixTree {

@@ -1,5 +1,3 @@
-package srm344;
-
 public class QuantumAlchemy {
     private int[] amount = new int[256];
     private int[] need = new int[256];

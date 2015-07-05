@@ -1,5 +1,3 @@
-package srm321;
-
 public class Chocolate {
     public int minSplitNumber(int width, int height, int nTiles) {
         long w = width, h = height, n = nTiles;

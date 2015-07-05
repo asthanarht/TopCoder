@@ -1,5 +1,3 @@
-package srm345;
-
 public class Pathfinding {
     public int getDirections(int x, int y) {
         int absx = Math.abs(x), absy = Math.abs(y);

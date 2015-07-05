@@ -1,5 +1,3 @@
-package srm421;
-
 public class EquilibriumPoints {
     public double[] getPoints(int[] x, int[] m) {
         double[] e = new double[x.length - 1];

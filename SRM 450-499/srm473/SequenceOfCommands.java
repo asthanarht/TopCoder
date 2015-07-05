@@ -1,5 +1,3 @@
-package srm473;
-
 public class SequenceOfCommands {
     private int[] xchange = { 0, 1, 0, -1 };
     private int[] ychange = { 1, 0, -1, 0 };
