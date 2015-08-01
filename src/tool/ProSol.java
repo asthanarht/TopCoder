@@ -19,6 +19,7 @@ public class ProSol {
     private static String PATH = "./"; // path to codes
     private static String content;
     private static HashSet<String> solved = new HashSet<String>();
+    private static HashSet<String> found = new HashSet<String>();
     private static HashSet<String> problems = new HashSet<String>();
     private static HashMap<Integer, SRM> srms = new HashMap<Integer, SRM>();
     @SuppressWarnings("unchecked")
@@ -107,6 +108,7 @@ public class ProSol {
                     if (solved.contains(proName)) {
                         srm.done[div][level] = true;
                         sets[div][level].add(proName);
+                        found.add(proName);
                     }
                     srms.put(rd, srm);
                 }
@@ -128,7 +130,7 @@ public class ProSol {
                     "  ||%5d|%5d|%5d||%5d|%5d|%5d||  solved %d",
                     sets[2][1].size(), sets[2][2].size(), sets[2][3].size(),
                     sets[1][1].size(), sets[1][2].size(), sets[1][3].size(),
-                    solved.size()));
+                    found.size()));
             out.println(String.format(
                     "  ||%5d|%5d|%5d||%5d|%5d|%5d||  total %d",
                     total[2][1].size(), total[2][2].size(), total[2][3].size(),
