@@ -3,6 +3,7 @@ package tool;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -38,6 +39,12 @@ public class ProSol {
                 fetch(d, l);
                 time += System.currentTimeMillis();
                 read(d, l);
+                if (total[d][l].size() == 0) {
+                    time = -System.currentTimeMillis();
+                    fetchOffline(d, l);
+                    time += System.currentTimeMillis();
+                    read(d, l);
+                }
             }
         output();
         System.out.println(time);
@@ -72,6 +79,23 @@ public class ProSol {
             System.out.println("fetching ... " + url);
             connection = new URL(url).openConnection();
             Scanner scanner = new Scanner(connection.getInputStream());
+            scanner.useDelimiter("\\Z");
+            content = scanner.next();
+            scanner.close();
+        }
+        catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+
+    public static void fetchOffline(int div, int level) {
+        content = null;
+        try {
+            String url = "div" + div + "l=" + level + ".html";
+            System.out.println("fetching ... " + url);
+            File doc = new File(url);
+            Scanner scanner = new Scanner(new BufferedReader(
+                    new FileReader(doc)));
             scanner.useDelimiter("\\Z");
             content = scanner.next();
             scanner.close();
